@@ -75,16 +75,8 @@
           "description": ""
         },
         {
-          "name": "Hyperia",
-          "position": 8,
-          "uniqueId": 552,
-          "date": "Sep 20, 2024 12:59:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "Helix",
-          "position": 9,
+          "position": 8,
           "uniqueId": 432,
           "date": "May 23, 2023 10:31:51",
           "isChecked": false,
@@ -92,9 +84,17 @@
         },
         {
           "name": "Fluch von Novgorod",
-          "position": 10,
+          "position": 9,
           "uniqueId": 75,
           "date": "Aug 26, 2019 10:27:17",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Hyperia",
+          "position": 10,
+          "uniqueId": 552,
+          "date": "Sep 20, 2024 12:59:44",
           "isChecked": false,
           "description": ""
         },
