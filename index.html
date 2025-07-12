@@ -11,7 +11,7 @@
       margin: 0;
       padding: 0;
       background: #f0f0f0;
-      padding-bottom: 5rem; /* espacio para la barra inferior del proveedor */
+      padding-bottom: 5rem; /* espacio para la barra del proveedor */
     }
     header {
       background: #2563EB;
@@ -30,9 +30,7 @@
       padding: 1rem;
       padding-bottom: 5rem; /* mismo espacio abajo */
     }
-    .hidden {
-      display: none;
-    }
+    .hidden { display: none; }
     .list-card {
       background: white;
       margin-bottom: 1rem;
@@ -42,10 +40,10 @@
       cursor: pointer;
     }
 
-    /* CONTENEDOR DE ÍTEMS */
+    /* ÍTEMS */
     #detail-items {
       overflow-x: auto;
-      padding-right: 2rem;      /* más espacio para scroll */
+      padding-right: 2rem; /* más espacio a la derecha */
     }
     .item {
       display: flex;
@@ -56,9 +54,15 @@
       border-radius: .5rem;
       cursor: grab;
       box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-      /* reducimos un poco el ancho para que siempre queden márgenes */
-      max-width: calc(100% - 3rem);
+      max-width: calc(100% - 5rem); /* aún más pequeño */
       position: relative;
+    }
+    .delete-btn {
+      color: #E53E3E;
+      font-size: 1.2rem;
+      margin-right: .75rem;
+      cursor: pointer;
+      flex-shrink: 0;
     }
     .item-number {
       display: inline-flex;
@@ -73,18 +77,16 @@
       margin-right: 1rem;
       flex-shrink: 0;
     }
-    .item span.name {
-      flex: 1;
-    }
-    .item span.drag-handle {
+    .name { flex: 1; }
+    .drag-handle {
       margin-left: 1rem;
       color: #999;
+      cursor: grab;
     }
 
-    /* BOTÓN FLOTANTE + */
+    /* BOTONES FLOTANTES */
     .fab {
       position: fixed;
-      top: 1rem;
       right: 1rem;
       background: #2563EB;
       color: white;
@@ -97,6 +99,15 @@
       font-size: 1.5rem;
       cursor: pointer;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    #add-btn { top: 1rem; }
+    #scroll-top { top: 5rem; }
+    #scroll-bottom { top: 9rem; }
+    /* Hazlas un poco más pequeñas */
+    #scroll-top, #scroll-bottom {
+      width: 2.5rem;
+      height: 2.5rem;
+      font-size: 1.25rem;
     }
 
     /* SNACKBAR DESHACER */
@@ -114,9 +125,7 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.3);
       font-size: .95rem;
     }
-    #undo-bar.hidden {
-      display: none;
-    }
+    #undo-bar.hidden { display: none; }
     #undo-bar button {
       margin-left: 1rem;
       background: transparent;
@@ -133,20 +142,22 @@
     <span id="header-title">Ranked Lists</span>
   </header>
 
-  <!-- Pantalla de listas -->
+  <!-- Listas -->
   <div id="list-screen"></div>
 
-  <!-- Pantalla de detalle -->
+  <!-- Detalle -->
   <div id="detail-screen" class="hidden">
     <div id="detail-items"></div>
   </div>
 
-  <!-- Botón de añadir elemento -->
+  <!-- Botones flotantes -->
   <div id="add-btn" class="fab">+</div>
+  <div id="scroll-top" class="fab">↑</div>
+  <div id="scroll-bottom" class="fab">↓</div>
 
   <!-- Snackbar de deshacer -->
   <div id="undo-bar" class="hidden">
-    Acción realizada
+    <span id="undo-msg"></span>
     <button id="undo-btn">DESHACER</button>
   </div>
 
