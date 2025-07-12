@@ -11,520 +11,344 @@
       "showImageIcon": false,
       "itemList": [
         {
-          "name": "Shambhala",
-          "position": 1700,
-          "uniqueId": 0,
-          "date": "Jun 19, 2019 00:34:40",
+          "name": "meca",
+          "uniqueId": 1752316513881,
+          "date": "Sat Jul 12 2025 12:35:13 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
-          "description": ""
+          "description": "",
+          "position": 0
         },
         {
-          "name": "Abismo",
-          "position": 4500,
-          "uniqueId": 1,
-          "date": "Jun 19, 2019 00:34:49",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Saw: The Ride",
-          "position": 3100,
-          "uniqueId": 2,
-          "date": "Jun 19, 2019 00:35:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Superman",
-          "position": 6200,
-          "uniqueId": 3,
-          "date": "Jun 19, 2019 00:35:53",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Stunt Fall",
-          "position": 4700,
-          "uniqueId": 4,
-          "date": "Jun 19, 2019 00:35:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Stealth",
-          "position": 3400,
-          "uniqueId": 5,
-          "date": "Jun 19, 2019 00:36:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Nemesis Inferno",
-          "position": 9600,
-          "uniqueId": 6,
-          "date": "Jun 19, 2019 00:36:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "The Walking Dead: The Ride",
-          "position": 5700,
-          "uniqueId": 7,
-          "date": "Jun 19, 2019 00:36:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tarantula",
-          "position": 10800,
-          "uniqueId": 8,
-          "date": "Jun 19, 2019 00:36:40",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "The Swarm",
-          "position": 9700,
-          "uniqueId": 9,
-          "date": "Jun 19, 2019 00:36:45",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Colossus",
-          "position": 10000,
-          "uniqueId": 10,
-          "date": "Jun 19, 2019 00:37:11",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Batman",
-          "position": 4600,
-          "uniqueId": 11,
-          "date": "Jun 19, 2019 00:37:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Furius Baco",
-          "position": 5500,
-          "uniqueId": 12,
-          "date": "Jun 19, 2019 00:37:31",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dragon Khan",
-          "position": 7300,
-          "uniqueId": 13,
-          "date": "Jun 19, 2019 00:37:49",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Stampida Blue",
-          "position": 14600,
-          "uniqueId": 14,
-          "date": "Jun 19, 2019 00:38:06",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tornado",
-          "position": 10700,
-          "uniqueId": 15,
-          "date": "Jun 19, 2019 00:38:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "TNT",
-          "position": 12500,
-          "uniqueId": 16,
-          "date": "Jun 19, 2019 00:38:31",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Correcaminos",
-          "position": 14000,
-          "uniqueId": 17,
-          "date": "Jun 19, 2019 00:39:11",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Magnus Colossus",
-          "position": 13300,
-          "uniqueId": 18,
-          "date": "Jun 19, 2019 00:39:25",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tami-Tami",
-          "position": 23400,
-          "uniqueId": 19,
-          "date": "Jun 19, 2019 00:40:15",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tomahawk",
-          "position": 22000,
-          "uniqueId": 20,
-          "date": "Jun 19, 2019 00:40:23",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "El Diablo",
-          "position": 17000,
-          "uniqueId": 21,
-          "date": "Jun 19, 2019 00:40:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Padrinos Voladores",
-          "position": 23300,
-          "uniqueId": 22,
-          "date": "Jun 19, 2019 00:41:13",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Coaster Express",
-          "position": 9900,
-          "uniqueId": 23,
-          "date": "Jun 19, 2019 00:41:27",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Paw Patrol",
-          "position": 26700,
-          "uniqueId": 24,
-          "date": "Jun 19, 2019 00:41:53",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vértigo",
-          "position": 16900,
-          "uniqueId": 25,
-          "date": "Jun 19, 2019 00:42:09",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tom y Jerry",
-          "position": 20800,
-          "uniqueId": 26,
-          "date": "Jun 19, 2019 00:42:39",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Alucinakis",
-          "position": 19900,
-          "uniqueId": 27,
-          "date": "Jun 19, 2019 00:43:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Titanide",
-          "position": 16100,
-          "uniqueId": 28,
-          "date": "Jun 19, 2019 00:43:23",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fiesta Express",
-          "position": 27100,
-          "uniqueId": 29,
-          "date": "Jun 19, 2019 00:44:14",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Flying Fish",
-          "position": 21600,
-          "uniqueId": 30,
-          "date": "Jun 19, 2019 00:44:36",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Stampida Red",
-          "position": 14500,
-          "uniqueId": 31,
-          "date": "Jun 19, 2019 00:45:13",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Cumbres",
-          "position": 24900,
-          "uniqueId": 32,
-          "date": "Jun 26, 2019 12:50:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Junior Red Force",
-          "position": 26600,
-          "uniqueId": 33,
-          "date": "Jul 3, 2019 14:08:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Red Force",
-          "position": 4800,
-          "uniqueId": 34,
-          "date": "Jul 3, 2019 15:49:17",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Muntanya Russa",
-          "position": 14900,
-          "uniqueId": 35,
-          "date": "Jul 6, 2019 11:37:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tibidabo Express",
-          "position": 21100,
-          "uniqueId": 36,
-          "date": "Jul 6, 2019 11:37:47",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Roller Coaster (Neverland Zaragoza)",
-          "position": 23700,
-          "uniqueId": 37,
-          "date": "Jul 18, 2019 14:33:29",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mina (PAZ)",
-          "position": 26800,
-          "uniqueId": 38,
-          "date": "Jul 18, 2019 17:44:52",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Moncayo",
-          "position": 16600,
-          "uniqueId": 39,
-          "date": "Jul 18, 2019 17:45:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Ramses",
-          "position": 21200,
-          "uniqueId": 40,
-          "date": "Jul 18, 2019 17:45:43",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Nessie",
-          "position": 10400,
-          "uniqueId": 74,
-          "date": "Aug 26, 2019 10:15:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fluch von Novgorod",
-          "position": 1000,
-          "uniqueId": 75,
-          "date": "Aug 26, 2019 10:27:17",
+          "name": "Taron",
+          "position": 1,
+          "uniqueId": 305,
+          "date": "Oct 9, 2021 22:51:50",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Kärnan",
-          "position": 100,
+          "position": 2,
           "uniqueId": 76,
           "date": "Aug 26, 2019 11:04:24",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Crazy Mine (Wild Mouse de Hansa)",
-          "position": 18300,
-          "uniqueId": 77,
-          "date": "Aug 26, 2019 14:52:45",
+          "name": "Zadra",
+          "position": 3,
+          "uniqueId": 190,
+          "date": "Jul 24, 2020 20:18:04",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Die Schlange von Midgard (Hansa dragon)",
-          "position": 11500,
-          "uniqueId": 78,
-          "date": "Aug 26, 2019 14:53:57",
+          "name": "Batman Gotham City Escape",
+          "position": 4,
+          "uniqueId": 458,
+          "date": "May 23, 2023 10:41:50",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Rasender Roland (Nessie)",
-          "position": 24500,
-          "uniqueId": 79,
-          "date": "Aug 26, 2019 14:54:28",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Der Kleine Zar",
-          "position": 23100,
-          "uniqueId": 80,
-          "date": "Aug 26, 2019 14:54:45",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Colossos",
-          "position": 2700,
-          "uniqueId": 82,
-          "date": "Aug 27, 2019 10:31:52",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Indy-Blitz (Heide)",
-          "position": 23600,
-          "uniqueId": 83,
-          "date": "Aug 27, 2019 11:06:02",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Desert Race",
-          "position": 6300,
-          "uniqueId": 84,
-          "date": "Aug 27, 2019 11:06:27",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Krake",
-          "position": 14400,
-          "uniqueId": 85,
-          "date": "Aug 27, 2019 11:32:41",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Flug der Dämonen",
-          "position": 8400,
-          "uniqueId": 86,
-          "date": "Aug 27, 2019 11:54:39",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Bobbahn",
-          "position": 9400,
-          "uniqueId": 87,
-          "date": "Aug 27, 2019 12:11:36",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Limit",
-          "position": 19600,
-          "uniqueId": 88,
-          "date": "Aug 27, 2019 12:29:12",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Big Loop",
-          "position": 19700,
-          "uniqueId": 89,
-          "date": "Aug 27, 2019 12:54:35",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Grottenblitz (powered heide)",
-          "position": 17700,
-          "uniqueId": 90,
-          "date": "Aug 27, 2019 18:18:23",
+          "name": "Toutatis",
+          "position": 5,
+          "uniqueId": 462,
+          "date": "Sep 9, 2023 19:42:25",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Untamed",
-          "position": 500,
+          "position": 6,
           "uniqueId": 97,
           "date": "Aug 29, 2019 10:47:49",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Xpress Plattform 13",
-          "position": 10200,
-          "uniqueId": 98,
-          "date": "Aug 29, 2019 10:48:14",
+          "name": "The Ride to Happiness",
+          "position": 7,
+          "uniqueId": 285,
+          "date": "Aug 22, 2021 11:33:34",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Lost Gravity",
-          "position": 5300,
-          "uniqueId": 99,
-          "date": "Aug 29, 2019 11:10:49",
+          "name": "Hyperia",
+          "position": 8,
+          "uniqueId": 552,
+          "date": "Sep 20, 2024 12:59:44",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "El Condor",
-          "position": 16500,
-          "uniqueId": 100,
-          "date": "Aug 29, 2019 12:16:46",
+          "name": "F.L.Y",
+          "position": 9,
+          "uniqueId": 307,
+          "date": "Oct 9, 2021 22:52:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Helix",
+          "position": 10,
+          "uniqueId": 432,
+          "date": "May 23, 2023 10:31:51",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fluch von Novgorod",
+          "position": 11,
+          "uniqueId": 75,
+          "date": "Aug 26, 2019 10:27:17",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Taiga",
+          "position": 12,
+          "uniqueId": 396,
+          "date": "Jul 19, 2022 12:03:07",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Junker",
+          "position": 13,
+          "uniqueId": 388,
+          "date": "Jul 19, 2022 08:08:29",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Lech Coaster",
+          "position": 14,
+          "uniqueId": 188,
+          "date": "Jul 23, 2020 14:33:11",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Hyperion",
+          "position": 15,
+          "uniqueId": 191,
+          "date": "Jul 24, 2020 20:18:24",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Kondaa",
+          "position": 16,
+          "uniqueId": 364,
+          "date": "Apr 4, 2022 13:40:25",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Juvelen",
+          "position": 17,
+          "uniqueId": 446,
+          "date": "May 23, 2023 10:37:16",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Shambhala",
+          "position": 18,
+          "uniqueId": 0,
+          "date": "Jun 19, 2019 00:34:40",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Blue Fire",
+          "position": 19,
+          "uniqueId": 484,
+          "date": "Jun 17, 2024 21:48:05",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Piraten",
+          "position": 20,
+          "uniqueId": 445,
+          "date": "May 23, 2023 10:36:55",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Goliath",
-          "position": 2000,
+          "position": 21,
           "uniqueId": 101,
           "date": "Aug 29, 2019 13:07:45",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Speed of Sound",
-          "position": 7500,
-          "uniqueId": 102,
-          "date": "Aug 29, 2019 14:39:24",
+          "name": "Troy",
+          "position": 22,
+          "uniqueId": 117,
+          "date": "Aug 31, 2019 12:25:21",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Drako (WbH)",
-          "position": 20900,
-          "uniqueId": 104,
-          "date": "Aug 29, 2019 20:59:37",
+          "name": "Expedition Geforce",
+          "position": 23,
+          "uniqueId": 344,
+          "date": "Oct 13, 2021 13:32:26",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fury",
+          "position": 24,
+          "uniqueId": 276,
+          "date": "Aug 21, 2021 13:40:19",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Wodan",
+          "position": 25,
+          "uniqueId": 483,
+          "date": "Jun 17, 2024 21:47:09",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Karacho",
+          "position": 26,
+          "uniqueId": 339,
+          "date": "Oct 12, 2021 16:08:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Oziris",
+          "position": 27,
+          "uniqueId": 263,
+          "date": "Sep 20, 2020 19:44:11",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Colossos",
+          "position": 28,
+          "uniqueId": 82,
+          "date": "Aug 27, 2019 10:31:52",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Silver Star",
+          "position": 29,
+          "uniqueId": 488,
+          "date": "Jun 17, 2024 21:51:42",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Baron 1898",
+          "position": 30,
+          "uniqueId": 111,
+          "date": "Aug 30, 2019 15:30:14",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pitt's Special",
+          "position": 31,
+          "uniqueId": 391,
+          "date": "Jul 19, 2022 08:10:11",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Saw: The Ride",
+          "position": 32,
+          "uniqueId": 2,
+          "date": "Jun 19, 2019 00:35:42",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Big Thunder Mountain",
+          "position": 33,
+          "uniqueId": 143,
+          "date": "Jan 24, 2020 10:58:05",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vliegende Hollander",
+          "position": 34,
+          "uniqueId": 108,
+          "date": "Aug 30, 2019 12:14:04",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Wiener Looping",
+          "position": 35,
+          "uniqueId": 599,
+          "date": "May 22, 2025 10:41:30",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Stealth",
+          "position": 36,
+          "uniqueId": 5,
+          "date": "Jun 19, 2019 00:36:01",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Arthur",
+          "position": 37,
+          "uniqueId": 495,
+          "date": "Jun 23, 2024 14:24:41",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Lisebergbanan",
+          "position": 38,
+          "uniqueId": 433,
+          "date": "May 23, 2023 10:33:18",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Hals Uber Kopf",
+          "position": 39,
+          "uniqueId": 336,
+          "date": "Oct 12, 2021 16:06:15",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Voltron",
+          "position": 40,
+          "uniqueId": 486,
+          "date": "Jun 17, 2024 21:50:21",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fenix",
+          "position": 41,
+          "uniqueId": 116,
+          "date": "Aug 31, 2019 11:27:42",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Joris en de Draak (Blue)",
-          "position": 4000,
+          "position": 42,
           "uniqueId": 105,
           "date": "Aug 30, 2019 11:10:09",
           "isChecked": false,
@@ -532,855 +356,247 @@
         },
         {
           "name": "Joris en de Draak (Red)",
-          "position": 4100,
+          "position": 43,
           "uniqueId": 106,
           "date": "Aug 30, 2019 11:11:31",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Python",
-          "position": 10300,
-          "uniqueId": 107,
-          "date": "Aug 30, 2019 12:13:23",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vliegende Hollander",
-          "position": 3300,
-          "uniqueId": 108,
-          "date": "Aug 30, 2019 12:14:04",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vogel Rok",
-          "position": 6000,
-          "uniqueId": 109,
-          "date": "Aug 30, 2019 12:22:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Bob",
-          "position": 8600,
-          "uniqueId": 110,
-          "date": "Aug 30, 2019 15:29:46",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Baron 1898",
-          "position": 2900,
-          "uniqueId": 111,
-          "date": "Aug 30, 2019 15:30:14",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Booster Bike",
-          "position": 13500,
-          "uniqueId": 113,
-          "date": "Aug 31, 2019 10:33:36",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Toos-Express",
-          "position": 20200,
-          "uniqueId": 114,
-          "date": "Aug 31, 2019 10:44:02",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dwervelwind (Mack Toverland)",
-          "position": 5100,
-          "uniqueId": 115,
-          "date": "Aug 31, 2019 11:09:56",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fenix",
-          "position": 3900,
-          "uniqueId": 116,
-          "date": "Aug 31, 2019 11:27:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Troy",
-          "position": 2100,
-          "uniqueId": 117,
-          "date": "Aug 31, 2019 12:25:21",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Hyperspace Mountain",
-          "position": 7400,
-          "uniqueId": 142,
-          "date": "Jan 24, 2020 09:58:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Big Thunder Mountain",
-          "position": 3200,
-          "uniqueId": 143,
-          "date": "Jan 24, 2020 10:58:05",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Indiana Jones",
-          "position": 13400,
-          "uniqueId": 144,
-          "date": "Jan 24, 2020 11:29:36",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Casey jr",
-          "position": 17600,
-          "uniqueId": 146,
-          "date": "Jan 24, 2020 20:13:05",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "RC Racer",
-          "position": 18500,
-          "uniqueId": 166,
-          "date": "Jan 25, 2020 16:51:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Crush\u0027s Coaster",
-          "position": 11000,
-          "uniqueId": 167,
-          "date": "Jan 25, 2020 16:51:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dinocoaster",
-          "position": 23000,
-          "uniqueId": 185,
-          "date": "Jul 22, 2020 20:34:19",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Diabelska Pętla",
-          "position": 12700,
-          "uniqueId": 187,
-          "date": "Jul 23, 2020 14:32:18",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Lech Coaster",
-          "position": 1300,
-          "uniqueId": 188,
-          "date": "Jul 23, 2020 14:33:11",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Zadra",
-          "position": 200,
-          "uniqueId": 190,
-          "date": "Jul 24, 2020 20:18:04",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Hyperion",
-          "position": 1400,
-          "uniqueId": 191,
-          "date": "Jul 24, 2020 20:18:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Draken",
-          "position": 24400,
-          "uniqueId": 193,
-          "date": "Jul 24, 2020 23:21:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Frida",
-          "position": 20300,
-          "uniqueId": 194,
-          "date": "Jul 24, 2020 23:21:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mayan",
-          "position": 12600,
-          "uniqueId": 195,
-          "date": "Jul 24, 2020 23:21:48",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Viking (wild mouse Energylandia)",
-          "position": 27400,
-          "uniqueId": 196,
-          "date": "Jul 24, 2020 23:23:10",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Boomerang (Energylandia)",
-          "position": 15500,
-          "uniqueId": 197,
-          "date": "Jul 24, 2020 23:23:37",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Energus",
-          "position": 20600,
-          "uniqueId": 198,
-          "date": "Jul 24, 2020 23:24:18",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Frutti loop",
-          "position": 17400,
-          "uniqueId": 199,
-          "date": "Jul 24, 2020 23:24:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Happy loops",
-          "position": 21900,
-          "uniqueId": 200,
-          "date": "Jul 24, 2020 23:25:07",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mars",
-          "position": 26000,
-          "uniqueId": 201,
-          "date": "Jul 24, 2020 23:25:36",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Formula",
-          "position": 7000,
-          "uniqueId": 202,
-          "date": "Jul 24, 2020 23:25:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Speed (watercoaster energylandia)",
-          "position": 11800,
-          "uniqueId": 203,
-          "date": "Jul 24, 2020 23:26:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Circus Coaster",
-          "position": 24800,
-          "uniqueId": 204,
-          "date": "Jul 25, 2020 17:08:09",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dragon",
-          "position": 13200,
-          "uniqueId": 205,
-          "date": "Jul 25, 2020 17:08:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Volare",
-          "position": 13000,
-          "uniqueId": 209,
-          "date": "Aug 1, 2020 01:05:50",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Gesengte Sau Prater",
-          "position": 9800,
-          "uniqueId": 210,
-          "date": "Aug 1, 2020 01:06:29",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Maskerade",
-          "position": 15300,
-          "uniqueId": 212,
-          "date": "Sep 3, 2020 22:19:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Hochschaubahn",
-          "position": 18600,
-          "uniqueId": 213,
-          "date": "Sep 3, 2020 22:19:54",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Megablitz",
-          "position": 13700,
-          "uniqueId": 214,
-          "date": "Sep 3, 2020 22:20:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Boomerang",
-          "position": 12200,
-          "uniqueId": 215,
-          "date": "Sep 3, 2020 22:21:00",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "€uro coaster",
-          "position": 22400,
-          "uniqueId": 216,
-          "date": "Sep 3, 2020 22:21:41",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Rollerball",
-          "position": 17300,
-          "uniqueId": 217,
-          "date": "Sep 3, 2020 22:22:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Insider",
-          "position": 14100,
-          "uniqueId": 218,
-          "date": "Sep 3, 2020 22:22:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dizzy Mouse",
-          "position": 22800,
-          "uniqueId": 219,
-          "date": "Sep 3, 2020 22:22:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Super 8er Bahn",
-          "position": 25400,
-          "uniqueId": 220,
-          "date": "Sep 3, 2020 22:23:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Zug des Manitu",
-          "position": 24100,
-          "uniqueId": 221,
-          "date": "Sep 3, 2020 22:23:31",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Wilde Maus",
-          "position": 24000,
-          "uniqueId": 222,
-          "date": "Sep 3, 2020 22:25:41",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Race (SBF Prater)",
-          "position": 26500,
-          "uniqueId": 223,
-          "date": "Sep 3, 2020 22:26:02",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mini Mouse Cartoon",
-          "position": 26900,
-          "uniqueId": 243,
-          "date": "Sep 19, 2020 13:41:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Aérotrain",
-          "position": 20500,
-          "uniqueId": 244,
-          "date": "Sep 19, 2020 13:41:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pomme",
-          "position": 24200,
-          "uniqueId": 245,
-          "date": "Sep 19, 2020 13:41:53",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Wild Train (Pax)",
-          "position": 11900,
-          "uniqueId": 246,
-          "date": "Sep 19, 2020 13:42:23",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Souris Verte",
-          "position": 23800,
-          "uniqueId": 247,
-          "date": "Sep 19, 2020 13:43:10",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Wood Express",
-          "position": 4900,
-          "uniqueId": 248,
-          "date": "Sep 19, 2020 13:43:41",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Jurassic Twister",
-          "position": 23900,
-          "uniqueId": 250,
-          "date": "Sep 19, 2020 19:07:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fort d\u0027Odin",
-          "position": 14300,
-          "uniqueId": 251,
-          "date": "Sep 19, 2020 19:08:14",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Gonzales",
-          "position": 25500,
-          "uniqueId": 252,
-          "date": "Sep 19, 2020 19:09:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pirate\u0027s Coaster",
-          "position": 25800,
-          "uniqueId": 253,
-          "date": "Sep 19, 2020 19:09:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pégase Express",
-          "position": 6600,
-          "uniqueId": 257,
-          "date": "Sep 20, 2020 19:35:00",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vol D\u0027Icare",
-          "position": 17500,
-          "uniqueId": 258,
-          "date": "Sep 20, 2020 19:38:27",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Goudurix",
-          "position": 16300,
-          "uniqueId": 259,
-          "date": "Sep 20, 2020 19:38:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Trace du Hourra",
-          "position": 9300,
-          "uniqueId": 260,
-          "date": "Sep 20, 2020 19:40:49",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "SOS Numérobis",
-          "position": 21300,
-          "uniqueId": 261,
-          "date": "Sep 20, 2020 19:42:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tonerre de Zeus",
-          "position": 11300,
-          "uniqueId": 262,
-          "date": "Sep 20, 2020 19:43:09",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Oziris",
-          "position": 2600,
-          "uniqueId": 263,
-          "date": "Sep 20, 2020 19:44:11",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Speed Rockets",
-          "position": 12300,
-          "uniqueId": 264,
-          "date": "Sep 21, 2020 12:58:55",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Machine a Vapeur",
-          "position": 16400,
-          "uniqueId": 265,
-          "date": "Sep 21, 2020 12:59:34",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dragon Chinois",
-          "position": 20700,
-          "uniqueId": 266,
-          "date": "Sep 21, 2020 13:00:07",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tren de Potosí",
-          "position": 22600,
-          "uniqueId": 269,
-          "date": "Jul 4, 2021 23:30:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Jaguar",
-          "position": 16000,
-          "uniqueId": 270,
-          "date": "Jul 4, 2021 23:30:43",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Bobsleigh",
-          "position": 10600,
-          "uniqueId": 271,
-          "date": "Aug 17, 2021 16:16:55",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Typhoon",
-          "position": 10100,
-          "uniqueId": 272,
-          "date": "Aug 21, 2021 10:33:16",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Naga Bay",
-          "position": 13100,
-          "uniqueId": 273,
-          "date": "Aug 21, 2021 11:03:12",
+          "name": "Hype",
+          "position": 44,
+          "uniqueId": 382,
+          "date": "Jul 19, 2022 08:04:19",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Revolution",
-          "position": 4300,
+          "position": 45,
           "uniqueId": 274,
           "date": "Aug 21, 2021 11:34:14",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Speedy Bob",
-          "position": 16700,
-          "uniqueId": 275,
-          "date": "Aug 21, 2021 11:58:26",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fury",
-          "position": 2300,
-          "uniqueId": 276,
-          "date": "Aug 21, 2021 13:40:19",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Bob Express",
-          "position": 18200,
-          "uniqueId": 277,
-          "date": "Aug 21, 2021 14:26:04",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dreamcatcher",
-          "position": 19300,
-          "uniqueId": 278,
-          "date": "Aug 21, 2021 16:44:46",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Oki Doki",
-          "position": 21400,
-          "uniqueId": 279,
-          "date": "Aug 21, 2021 16:45:47",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Heidi",
-          "position": 5000,
-          "uniqueId": 281,
-          "date": "Aug 22, 2021 11:00:07",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Draak",
-          "position": 15600,
-          "uniqueId": 282,
-          "date": "Aug 22, 2021 11:00:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "K3",
-          "position": 21500,
-          "uniqueId": 283,
-          "date": "Aug 22, 2021 11:01:10",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Viktors",
-          "position": 22300,
-          "uniqueId": 284,
-          "date": "Aug 22, 2021 11:01:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "The Ride to Happiness",
-          "position": 600,
-          "uniqueId": 285,
-          "date": "Aug 22, 2021 11:33:34",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "Anubis",
-          "position": 4400,
+          "position": 46,
           "uniqueId": 286,
           "date": "Aug 22, 2021 12:22:00",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Huracan",
-          "position": 9000,
-          "uniqueId": 288,
-          "date": "Aug 24, 2021 11:27:01",
+          "name": "Abismo",
+          "position": 47,
+          "uniqueId": 1,
+          "date": "Jun 19, 2019 00:34:49",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Wakala",
-          "position": 8200,
-          "uniqueId": 289,
-          "date": "Aug 24, 2021 11:27:32",
+          "name": "Batman",
+          "position": 48,
+          "uniqueId": 11,
+          "date": "Jun 19, 2019 00:37:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Boomerang (Bellewaerde)",
-          "position": 19800,
-          "uniqueId": 290,
-          "date": "Aug 24, 2021 14:01:32",
+          "name": "Stunt Fall",
+          "position": 49,
+          "uniqueId": 4,
+          "date": "Jun 19, 2019 00:35:57",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Keverbaan",
-          "position": 18400,
-          "uniqueId": 291,
-          "date": "Aug 24, 2021 16:53:15",
+          "name": "Red Force",
+          "position": 50,
+          "uniqueId": 34,
+          "date": "Jul 3, 2019 15:49:17",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Dawson duel Blue",
-          "position": 17100,
-          "uniqueId": 292,
-          "date": "Aug 24, 2021 16:54:30",
+          "name": "Wood Express",
+          "position": 51,
+          "uniqueId": 248,
+          "date": "Sep 19, 2020 13:43:41",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Dawson duel Green",
-          "position": 17200,
-          "uniqueId": 293,
-          "date": "Aug 24, 2021 16:54:52",
+          "name": "Heidi",
+          "position": 52,
+          "uniqueId": 281,
+          "date": "Aug 22, 2021 11:00:07",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Montaña Suiza",
-          "position": 17800,
-          "uniqueId": 299,
-          "date": "Sep 12, 2021 17:03:58",
+          "name": "Dwervelwind (Mack Toverland)",
+          "position": 53,
+          "uniqueId": 115,
+          "date": "Aug 31, 2019 11:09:56",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Taron",
-          "position": 0,
-          "uniqueId": 305,
-          "date": "Oct 9, 2021 22:51:50",
+          "name": "Eurosat",
+          "position": 54,
+          "uniqueId": 487,
+          "date": "Jun 17, 2024 21:51:07",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Colorado Adventure",
-          "position": 10500,
-          "uniqueId": 306,
-          "date": "Oct 9, 2021 22:52:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "F.L.Y",
-          "position": 800,
-          "uniqueId": 307,
-          "date": "Oct 9, 2021 22:52:43",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Black Mamba",
-          "position": 9500,
-          "uniqueId": 308,
-          "date": "Oct 9, 2021 22:54:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Raik",
-          "position": 12000,
-          "uniqueId": 309,
-          "date": "Oct 9, 2021 22:55:37",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Backyardigabs",
-          "position": 22700,
-          "uniqueId": 311,
-          "date": "Oct 10, 2021 14:21:13",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Ghost Chasers",
-          "position": 19500,
-          "uniqueId": 312,
-          "date": "Oct 10, 2021 14:21:39",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Studio Tour",
-          "position": 5600,
-          "uniqueId": 313,
-          "date": "Oct 10, 2021 14:22:05",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Jimmy Neutron",
-          "position": 20400,
-          "uniqueId": 314,
-          "date": "Oct 10, 2021 14:22:49",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Van Helsing\u0027s Factory",
-          "position": 7900,
-          "uniqueId": 315,
-          "date": "Oct 10, 2021 14:23:17",
+          "name": "Lost Gravity",
+          "position": 55,
+          "uniqueId": 99,
+          "date": "Aug 29, 2019 11:10:49",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Star Trek",
-          "position": 5400,
+          "position": 56,
           "uniqueId": 316,
           "date": "Oct 10, 2021 14:24:46",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "MP-Xpress",
-          "position": 16200,
-          "uniqueId": 317,
-          "date": "Oct 10, 2021 14:25:28",
+          "name": "Furius Baco",
+          "position": 57,
+          "uniqueId": 12,
+          "date": "Jun 19, 2019 00:37:31",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Bandit",
-          "position": 11400,
-          "uniqueId": 318,
-          "date": "Oct 10, 2021 14:25:57",
+          "name": "Studio Tour",
+          "position": 58,
+          "uniqueId": 313,
+          "date": "Oct 10, 2021 14:22:05",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "The Walking Dead: The Ride",
+          "position": 59,
+          "uniqueId": 7,
+          "date": "Jun 19, 2019 00:36:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rutschebanen Tivoli",
+          "position": 60,
+          "uniqueId": 443,
+          "date": "May 23, 2023 10:36:26",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Sky Scream",
+          "position": 61,
+          "uniqueId": 343,
+          "date": "Oct 13, 2021 13:31:19",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vogel Rok",
+          "position": 62,
+          "uniqueId": 109,
+          "date": "Aug 30, 2019 12:22:01",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Valkyria",
+          "position": 63,
+          "uniqueId": 434,
+          "date": "May 23, 2023 10:33:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Superman",
+          "position": 64,
+          "uniqueId": 3,
+          "date": "Jun 19, 2019 00:35:53",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Desert Race",
+          "position": 65,
+          "uniqueId": 84,
+          "date": "Aug 27, 2019 11:06:27",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Jetline",
+          "position": 66,
+          "uniqueId": 404,
+          "date": "Jul 21, 2022 07:27:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Polar X-Plorer",
+          "position": 67,
+          "uniqueId": 456,
+          "date": "May 23, 2023 10:40:34",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pégase Express",
+          "position": 68,
+          "uniqueId": 257,
+          "date": "Sep 20, 2020 19:35:00",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Uncharted",
+          "position": 69,
+          "uniqueId": 459,
+          "date": "Aug 5, 2023 11:14:59",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mandrill Mayhem",
+          "position": 70,
+          "uniqueId": 563,
+          "date": "Oct 19, 2024 00:42:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dragon Force (el cairo)",
+          "position": 71,
+          "uniqueId": 468,
+          "date": "Nov 10, 2023 19:17:56",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Formula",
+          "position": 72,
+          "uniqueId": 202,
+          "date": "Jul 24, 2020 23:25:57",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Winjas Izquierda",
-          "position": 7100,
+          "position": 73,
           "uniqueId": 333,
           "date": "Oct 12, 2021 16:00:33",
           "isChecked": false,
@@ -1388,841 +604,1633 @@
         },
         {
           "name": "Winjas Derecha",
-          "position": 7200,
+          "position": 74,
           "uniqueId": 334,
           "date": "Oct 12, 2021 16:04:21",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Crazy Bats",
-          "position": 25000,
-          "uniqueId": 335,
-          "date": "Oct 12, 2021 16:04:42",
+          "name": "Dragon Khan",
+          "position": 75,
+          "uniqueId": 13,
+          "date": "Jun 19, 2019 00:37:49",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Hals Uber Kopf",
-          "position": 3700,
-          "uniqueId": 336,
-          "date": "Oct 12, 2021 16:06:15",
+          "name": "Hyperspace Mountain",
+          "position": 76,
+          "uniqueId": 142,
+          "date": "Jan 24, 2020 09:58:57",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Volldampf",
-          "position": 18100,
-          "uniqueId": 337,
-          "date": "Oct 12, 2021 16:07:19",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Rasender Tausendfüßler",
-          "position": 21700,
-          "uniqueId": 338,
-          "date": "Oct 12, 2021 16:08:25",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Karacho",
-          "position": 2500,
-          "uniqueId": 339,
-          "date": "Oct 12, 2021 16:08:57",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mammut",
-          "position": 7700,
-          "uniqueId": 340,
-          "date": "Oct 12, 2021 16:09:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "G\u0027sengte Sau Tripsdrill",
-          "position": 11600,
-          "uniqueId": 341,
-          "date": "Oct 12, 2021 16:11:02",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tabalugas",
-          "position": 15700,
-          "uniqueId": 342,
-          "date": "Oct 13, 2021 13:30:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Sky Scream",
-          "position": 5900,
-          "uniqueId": 343,
-          "date": "Oct 13, 2021 13:31:19",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Expedition Geforce",
-          "position": 2200,
-          "uniqueId": 344,
-          "date": "Oct 13, 2021 13:32:26",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Kondaa",
-          "position": 1500,
-          "uniqueId": 364,
-          "date": "Apr 4, 2022 13:40:25",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tiki Waka",
-          "position": 9200,
-          "uniqueId": 365,
-          "date": "Apr 4, 2022 23:16:48",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Calamity Mine",
-          "position": 8100,
-          "uniqueId": 366,
-          "date": "Apr 4, 2022 23:17:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Loup Garou",
-          "position": 14700,
-          "uniqueId": 367,
-          "date": "Apr 4, 2022 23:18:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pulsar",
-          "position": 8900,
-          "uniqueId": 368,
-          "date": "Apr 4, 2022 23:19:06",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Cobra",
-          "position": 19000,
-          "uniqueId": 369,
-          "date": "Apr 4, 2022 23:20:15",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Fun Pilot",
-          "position": 23200,
-          "uniqueId": 370,
-          "date": "Apr 4, 2022 23:20:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vampire",
-          "position": 15900,
-          "uniqueId": 371,
-          "date": "Apr 4, 2022 23:21:04",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Max",
-          "position": 12100,
-          "uniqueId": 376,
-          "date": "Apr 5, 2022 14:09:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Moritz",
-          "position": 13800,
-          "uniqueId": 377,
-          "date": "Apr 5, 2022 14:09:27",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tornado (Sarkanniemi)",
-          "position": 7800,
-          "uniqueId": 381,
-          "date": "Jul 18, 2022 18:12:22",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Hype",
-          "position": 4200,
-          "uniqueId": 382,
-          "date": "Jul 19, 2022 08:04:19",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "MotoGee",
-          "position": 8500,
-          "uniqueId": 383,
-          "date": "Jul 19, 2022 08:05:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Trombi",
-          "position": 12900,
-          "uniqueId": 384,
-          "date": "Jul 19, 2022 08:06:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vauhtimato",
-          "position": 26300,
-          "uniqueId": 385,
-          "date": "Jul 19, 2022 08:07:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Cobra PowerPark",
-          "position": 18900,
-          "uniqueId": 386,
-          "date": "Jul 19, 2022 08:07:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Joyride",
-          "position": 23500,
-          "uniqueId": 387,
-          "date": "Jul 19, 2022 08:08:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Junker",
-          "position": 1200,
-          "uniqueId": 388,
-          "date": "Jul 19, 2022 08:08:29",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mine Train PowerPark",
-          "position": 26100,
-          "uniqueId": 389,
-          "date": "Jul 19, 2022 08:09:32",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Neo\u0027s Twister",
-          "position": 24700,
-          "uniqueId": 390,
-          "date": "Jul 19, 2022 08:09:59",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pitt\u0027s Special",
-          "position": 3000,
-          "uniqueId": 391,
-          "date": "Jul 19, 2022 08:10:11",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Thunderbird",
-          "position": 14800,
-          "uniqueId": 392,
-          "date": "Jul 19, 2022 08:12:09",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Taiga",
-          "position": 1100,
-          "uniqueId": 396,
-          "date": "Jul 19, 2022 12:03:07",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Linnunrata eXtra",
-          "position": 19200,
-          "uniqueId": 397,
-          "date": "Jul 21, 2022 07:22:39",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Pikajuna",
-          "position": 24300,
-          "uniqueId": 398,
-          "date": "Jul 21, 2022 07:23:03",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Salama",
-          "position": 18000,
-          "uniqueId": 399,
-          "date": "Jul 21, 2022 07:23:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tulireki",
-          "position": 19400,
-          "uniqueId": 400,
-          "date": "Jul 21, 2022 07:24:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Ukko",
-          "position": 18700,
-          "uniqueId": 401,
-          "date": "Jul 21, 2022 07:24:33",
+          "name": "Speed of Sound",
+          "position": 77,
+          "uniqueId": 102,
+          "date": "Aug 29, 2019 14:39:24",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Vuoristorata",
-          "position": 7600,
+          "position": 78,
           "uniqueId": 402,
           "date": "Jul 21, 2022 07:25:17",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Insane",
-          "position": 27200,
-          "uniqueId": 403,
-          "date": "Jul 21, 2022 07:26:12",
+          "name": "Mammut",
+          "position": 79,
+          "uniqueId": 340,
+          "date": "Oct 12, 2021 16:09:42",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Jetline",
-          "position": 6400,
-          "uniqueId": 404,
-          "date": "Jul 21, 2022 07:27:57",
+          "name": "Tornado (Sarkanniemi)",
+          "position": 80,
+          "uniqueId": 381,
+          "date": "Jul 18, 2022 18:12:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Kvasten",
-          "position": 11100,
-          "uniqueId": 405,
-          "date": "Jul 21, 2022 07:28:39",
+          "name": "Van Helsing's Factory",
+          "position": 81,
+          "uniqueId": 315,
+          "date": "Oct 10, 2021 14:23:17",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Monster",
-          "position": 8300,
-          "uniqueId": 406,
-          "date": "Jul 21, 2022 07:29:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Nyckelpigan",
-          "position": 25700,
-          "uniqueId": 407,
-          "date": "Jul 21, 2022 07:29:50",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tuff-Tuff Tåget",
-          "position": 25600,
-          "uniqueId": 408,
-          "date": "Jul 21, 2022 07:30:12",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Twister",
-          "position": 15800,
-          "uniqueId": 409,
-          "date": "Jul 21, 2022 07:30:34",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vilda Musen",
-          "position": 20000,
-          "uniqueId": 410,
-          "date": "Jul 21, 2022 07:31:25",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mountain Coaster",
-          "position": 12800,
-          "uniqueId": 413,
-          "date": "Jul 22, 2022 10:01:58",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Kirnu",
-          "position": 13600,
-          "uniqueId": 431,
-          "date": "May 23, 2023 10:31:16",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Helix",
-          "position": 900,
-          "uniqueId": 432,
-          "date": "May 23, 2023 10:31:51",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Lisebergbanan",
-          "position": 3600,
-          "uniqueId": 433,
-          "date": "May 23, 2023 10:33:18",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Valkyria",
-          "position": 6100,
-          "uniqueId": 434,
-          "date": "May 23, 2023 10:33:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Stampbanan",
-          "position": 26200,
-          "uniqueId": 435,
-          "date": "May 23, 2023 10:34:16",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Rabalder",
-          "position": 22900,
-          "uniqueId": 436,
-          "date": "May 23, 2023 10:34:29",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mine Train Ulven",
-          "position": 21800,
-          "uniqueId": 437,
-          "date": "May 23, 2023 10:34:40",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Vilde Mus",
-          "position": 20100,
-          "uniqueId": 438,
-          "date": "May 23, 2023 10:34:54",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Tornado Bakken",
-          "position": 27300,
-          "uniqueId": 439,
-          "date": "May 23, 2023 10:35:07",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mariehønen",
-          "position": 25900,
-          "uniqueId": 440,
-          "date": "May 23, 2023 10:35:30",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Rutschebanen Bakken",
-          "position": 22500,
-          "uniqueId": 441,
-          "date": "May 23, 2023 10:35:46",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dæmonen",
-          "position": 8800,
-          "uniqueId": 442,
-          "date": "May 23, 2023 10:36:01",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Rutschebanen Tivoli",
-          "position": 5800,
-          "uniqueId": 443,
-          "date": "May 23, 2023 10:36:26",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Kamelen",
-          "position": 24600,
-          "uniqueId": 444,
-          "date": "May 23, 2023 10:36:43",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Piraten",
-          "position": 1900,
-          "uniqueId": 445,
-          "date": "May 23, 2023 10:36:55",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Juvelen",
-          "position": 1600,
-          "uniqueId": 446,
-          "date": "May 23, 2023 10:37:16",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Thor\u0027s Hammer",
-          "position": 8000,
+          "name": "Thor's Hammer",
+          "position": 82,
           "uniqueId": 447,
           "date": "May 23, 2023 10:37:42",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "T-Rex Family Coaster",
-          "position": 13900,
-          "uniqueId": 448,
-          "date": "May 23, 2023 10:38:03",
+          "name": "Calamity Mine",
+          "position": 83,
+          "uniqueId": 366,
+          "date": "Apr 4, 2022 23:17:44",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Jungle Rally",
-          "position": 26400,
-          "uniqueId": 449,
-          "date": "May 23, 2023 10:38:17",
+          "name": "Wakala",
+          "position": 84,
+          "uniqueId": 289,
+          "date": "Aug 24, 2021 11:27:32",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "DrageKongen",
-          "position": 9100,
-          "uniqueId": 450,
-          "date": "May 23, 2023 10:38:32",
+          "name": "Monster",
+          "position": 85,
+          "uniqueId": 406,
+          "date": "Jul 21, 2022 07:29:08",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Vilde Hønsejagt",
-          "position": 22200,
-          "uniqueId": 451,
-          "date": "May 23, 2023 10:38:55",
+          "name": "Flug der Dämonen",
+          "position": 86,
+          "uniqueId": 86,
+          "date": "Aug 27, 2019 11:54:39",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Skatteøen",
-          "position": 11700,
-          "uniqueId": 452,
-          "date": "May 23, 2023 10:39:18",
+          "name": "MotoGee",
+          "position": 87,
+          "uniqueId": 383,
+          "date": "Jul 19, 2022 08:05:01",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Flying Eagle",
-          "position": 19100,
-          "uniqueId": 453,
-          "date": "May 23, 2023 10:39:34",
+          "name": "Bob",
+          "position": 88,
+          "uniqueId": 110,
+          "date": "Aug 30, 2019 15:29:46",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Dragen",
-          "position": 8700,
+          "position": 89,
           "uniqueId": 454,
           "date": "May 23, 2023 10:39:54",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Xtreme Racers",
-          "position": 14200,
-          "uniqueId": 455,
-          "date": "May 23, 2023 10:40:11",
+          "name": "Dæmonen",
+          "position": 90,
+          "uniqueId": 442,
+          "date": "May 23, 2023 10:36:01",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Polar X-Plorer",
-          "position": 6500,
-          "uniqueId": 456,
-          "date": "May 23, 2023 10:40:34",
+          "name": "Pulsar",
+          "position": 91,
+          "uniqueId": 368,
+          "date": "Apr 4, 2022 23:19:06",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Psyke Underground",
-          "position": 12400,
-          "uniqueId": 457,
-          "date": "May 23, 2023 10:41:37",
+          "name": "Huracan",
+          "position": 92,
+          "uniqueId": 288,
+          "date": "Aug 24, 2021 11:27:01",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Batman Gotham City Escape",
-          "position": 300,
-          "uniqueId": 458,
-          "date": "May 23, 2023 10:41:50",
+          "name": "DrageKongen",
+          "position": 93,
+          "uniqueId": 450,
+          "date": "May 23, 2023 10:38:32",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Uncharted",
-          "position": 6700,
-          "uniqueId": 459,
-          "date": "Aug 5, 2023 11:14:59",
+          "name": "Tiki Waka",
+          "position": 94,
+          "uniqueId": 365,
+          "date": "Apr 4, 2022 23:16:48",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Inferno",
-          "position": 16800,
-          "uniqueId": 460,
-          "date": "Aug 19, 2023 20:01:43",
+          "name": "Trace du Hourra",
+          "position": 95,
+          "uniqueId": 260,
+          "date": "Sep 20, 2020 19:40:49",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Avengers Assemble: Flight Force",
-          "position": 18800,
-          "uniqueId": 461,
-          "date": "Sep 8, 2023 21:17:37",
+          "name": "Bobbahn",
+          "position": 96,
+          "uniqueId": 87,
+          "date": "Aug 27, 2019 12:11:36",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Toutatis",
-          "position": 400,
-          "uniqueId": 462,
-          "date": "Sep 9, 2023 19:42:25",
+          "name": "Black Mamba",
+          "position": 97,
+          "uniqueId": 308,
+          "date": "Oct 9, 2021 22:54:32",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Dragon Force (el cairo)",
-          "position": 6900,
-          "uniqueId": 468,
-          "date": "Nov 10, 2023 19:17:56",
+          "name": "Nemesis Inferno",
+          "position": 98,
+          "uniqueId": 6,
+          "date": "Jun 19, 2019 00:36:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Montaña Rusa (Babylon Parquesur)",
-          "position": 25300,
-          "uniqueId": 477,
-          "date": "May 1, 2024 21:23:56",
+          "name": "The Swarm",
+          "position": 99,
+          "uniqueId": 9,
+          "date": "Jun 19, 2019 00:36:45",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Fiesta Express Benidorm",
-          "position": 27000,
-          "uniqueId": 478,
-          "date": "May 11, 2024 17:59:38",
+          "name": "Gesengte Sau Prater",
+          "position": 100,
+          "uniqueId": 210,
+          "date": "Aug 1, 2020 01:06:29",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "E.R.S.",
-          "position": 25200,
-          "uniqueId": 479,
-          "date": "Jun 9, 2024 20:16:47",
+          "name": "Coaster Express",
+          "position": 101,
+          "uniqueId": 23,
+          "date": "Jun 19, 2019 00:41:27",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Wodan",
-          "position": 2400,
-          "uniqueId": 483,
-          "date": "Jun 17, 2024 21:47:09",
+          "name": "Colossus",
+          "position": 102,
+          "uniqueId": 10,
+          "date": "Jun 19, 2019 00:37:11",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Blue Fire",
-          "position": 1800,
-          "uniqueId": 484,
-          "date": "Jun 17, 2024 21:48:05",
+          "name": "Typhoon",
+          "position": 103,
+          "uniqueId": 272,
+          "date": "Aug 21, 2021 10:33:16",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Euro Mir",
-          "position": 15200,
-          "uniqueId": 485,
-          "date": "Jun 17, 2024 21:49:20",
+          "name": "Xpress Plattform 13",
+          "position": 104,
+          "uniqueId": 98,
+          "date": "Aug 29, 2019 10:48:14",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Voltron",
-          "position": 3800,
-          "uniqueId": 486,
-          "date": "Jun 17, 2024 21:50:21",
+          "name": "Python",
+          "position": 105,
+          "uniqueId": 107,
+          "date": "Aug 30, 2019 12:13:23",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Eurosat",
-          "position": 5200,
-          "uniqueId": 487,
-          "date": "Jun 17, 2024 21:51:07",
+          "name": "Nessie",
+          "position": 106,
+          "uniqueId": 74,
+          "date": "Aug 26, 2019 10:15:32",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Silver Star",
-          "position": 2800,
-          "uniqueId": 488,
-          "date": "Jun 17, 2024 21:51:42",
+          "name": "Colorado Adventure",
+          "position": 107,
+          "uniqueId": 306,
+          "date": "Oct 9, 2021 22:52:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Matterhorn Blitz Europa Park",
-          "position": 15100,
-          "uniqueId": 492,
-          "date": "Jun 23, 2024 14:23:32",
+          "name": "Bobsleigh",
+          "position": 108,
+          "uniqueId": 271,
+          "date": "Aug 17, 2021 16:16:55",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Pegasus",
-          "position": 17900,
-          "uniqueId": 493,
-          "date": "Jun 23, 2024 14:23:53",
+          "name": "Tornado",
+          "position": 109,
+          "uniqueId": 15,
+          "date": "Jun 19, 2019 00:38:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Bobbahn EP",
-          "position": 22100,
-          "uniqueId": 494,
-          "date": "Jun 23, 2024 14:24:17",
+          "name": "Tarantula",
+          "position": 110,
+          "uniqueId": 8,
+          "date": "Jun 19, 2019 00:36:40",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Arthur",
-          "position": 3500,
-          "uniqueId": 495,
-          "date": "Jun 23, 2024 14:24:41",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Atlantica SuperSplash",
-          "position": 11200,
-          "uniqueId": 496,
-          "date": "Jun 23, 2024 14:25:20",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Alpenxpress EP",
-          "position": 15000,
-          "uniqueId": 497,
-          "date": "Jun 23, 2024 14:25:43",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Ba-a-a Express",
-          "position": 25100,
-          "uniqueId": 498,
-          "date": "Jun 23, 2024 14:26:08",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Poseidon",
-          "position": 21000,
-          "uniqueId": 499,
-          "date": "Jun 23, 2024 14:26:26",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Hyperia",
-          "position": 700,
-          "uniqueId": 552,
-          "date": "Sep 20, 2024 12:59:44",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Mandrill Mayhem",
-          "position": 6800,
-          "uniqueId": 563,
-          "date": "Oct 19, 2024 00:42:33",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Dragon\u0027s Fury",
-          "position": 10900,
+          "name": "Dragon's Fury",
+          "position": 111,
           "uniqueId": 564,
           "date": "Oct 19, 2024 00:43:22",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Vampire Chessington",
-          "position": 15400,
-          "uniqueId": 565,
-          "date": "Oct 19, 2024 00:43:51",
+          "name": "Crush's Coaster",
+          "position": 112,
+          "uniqueId": 167,
+          "date": "Jan 25, 2020 16:51:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Kvasten",
+          "position": 113,
+          "uniqueId": 405,
+          "date": "Jul 21, 2022 07:28:39",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Atlantica SuperSplash",
+          "position": 114,
+          "uniqueId": 496,
+          "date": "Jun 23, 2024 14:25:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tonerre de Zeus",
+          "position": 115,
+          "uniqueId": 262,
+          "date": "Sep 20, 2020 19:43:09",
           "isChecked": false,
           "description": ""
         },
         {
           "name": "Olympia Looping",
-          "position": 11350,
+          "position": 116,
           "uniqueId": 596,
           "date": "May 20, 2025 18:03:03",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Wiener Looping",
-          "position": 3350,
-          "uniqueId": 599,
-          "date": "May 22, 2025 10:41:30",
+          "name": "Bandit",
+          "position": 117,
+          "uniqueId": 318,
+          "date": "Oct 10, 2021 14:25:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Die Schlange von Midgard (Hansa dragon)",
+          "position": 118,
+          "uniqueId": 78,
+          "date": "Aug 26, 2019 14:53:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "G'sengte Sau Tripsdrill",
+          "position": 119,
+          "uniqueId": 341,
+          "date": "Oct 12, 2021 16:11:02",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Skatteøen",
+          "position": 120,
+          "uniqueId": 452,
+          "date": "May 23, 2023 10:39:18",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Speed (watercoaster energylandia)",
+          "position": 121,
+          "uniqueId": 203,
+          "date": "Jul 24, 2020 23:26:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Wild Train (Pax)",
+          "position": 122,
+          "uniqueId": 246,
+          "date": "Sep 19, 2020 13:42:23",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Raik",
+          "position": 123,
+          "uniqueId": 309,
+          "date": "Oct 9, 2021 22:55:37",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Max",
+          "position": 124,
+          "uniqueId": 376,
+          "date": "Apr 5, 2022 14:09:01",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Boomerang",
+          "position": 125,
+          "uniqueId": 215,
+          "date": "Sep 3, 2020 22:21:00",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Speed Rockets",
+          "position": 126,
+          "uniqueId": 264,
+          "date": "Sep 21, 2020 12:58:55",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Psyke Underground",
+          "position": 127,
+          "uniqueId": 457,
+          "date": "May 23, 2023 10:41:37",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "TNT",
+          "position": 128,
+          "uniqueId": 16,
+          "date": "Jun 19, 2019 00:38:31",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mayan",
+          "position": 129,
+          "uniqueId": 195,
+          "date": "Jul 24, 2020 23:21:48",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Diabelska Pętla",
+          "position": 130,
+          "uniqueId": 187,
+          "date": "Jul 23, 2020 14:32:18",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mountain Coaster",
+          "position": 131,
+          "uniqueId": 413,
+          "date": "Jul 22, 2022 10:01:58",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Trombi",
+          "position": 132,
+          "uniqueId": 384,
+          "date": "Jul 19, 2022 08:06:01",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Volare",
+          "position": 133,
+          "uniqueId": 209,
+          "date": "Aug 1, 2020 01:05:50",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Naga Bay",
+          "position": 134,
+          "uniqueId": 273,
+          "date": "Aug 21, 2021 11:03:12",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dragon",
+          "position": 135,
+          "uniqueId": 205,
+          "date": "Jul 25, 2020 17:08:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Magnus Colossus",
+          "position": 136,
+          "uniqueId": 18,
+          "date": "Jun 19, 2019 00:39:25",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Indiana Jones",
+          "position": 137,
+          "uniqueId": 144,
+          "date": "Jan 24, 2020 11:29:36",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Booster Bike",
+          "position": 138,
+          "uniqueId": 113,
+          "date": "Aug 31, 2019 10:33:36",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Kirnu",
+          "position": 139,
+          "uniqueId": 431,
+          "date": "May 23, 2023 10:31:16",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Megablitz",
+          "position": 140,
+          "uniqueId": 214,
+          "date": "Sep 3, 2020 22:20:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Moritz",
+          "position": 141,
+          "uniqueId": 377,
+          "date": "Apr 5, 2022 14:09:27",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "T-Rex Family Coaster",
+          "position": 142,
+          "uniqueId": 448,
+          "date": "May 23, 2023 10:38:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Correcaminos",
+          "position": 143,
+          "uniqueId": 17,
+          "date": "Jun 19, 2019 00:39:11",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Insider",
+          "position": 144,
+          "uniqueId": 218,
+          "date": "Sep 3, 2020 22:22:24",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Xtreme Racers",
+          "position": 145,
+          "uniqueId": 455,
+          "date": "May 23, 2023 10:40:11",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fort d'Odin",
+          "position": 146,
+          "uniqueId": 251,
+          "date": "Sep 19, 2020 19:08:14",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Krake",
+          "position": 147,
+          "uniqueId": 85,
+          "date": "Aug 27, 2019 11:32:41",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Stampida Red",
+          "position": 148,
+          "uniqueId": 31,
+          "date": "Jun 19, 2019 00:45:13",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Stampida Blue",
+          "position": 149,
+          "uniqueId": 14,
+          "date": "Jun 19, 2019 00:38:06",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Loup Garou",
+          "position": 150,
+          "uniqueId": 367,
+          "date": "Apr 4, 2022 23:18:22",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Thunderbird",
+          "position": 151,
+          "uniqueId": 392,
+          "date": "Jul 19, 2022 08:12:09",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Muntanya Russa",
+          "position": 152,
+          "uniqueId": 35,
+          "date": "Jul 6, 2019 11:37:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Alpenxpress EP",
+          "position": 153,
+          "uniqueId": 497,
+          "date": "Jun 23, 2024 14:25:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Matterhorn Blitz Europa Park",
+          "position": 154,
+          "uniqueId": 492,
+          "date": "Jun 23, 2024 14:23:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Euro Mir",
+          "position": 155,
+          "uniqueId": 485,
+          "date": "Jun 17, 2024 21:49:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Maskerade",
+          "position": 156,
+          "uniqueId": 212,
+          "date": "Sep 3, 2020 22:19:08",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vampire Chessington",
+          "position": 157,
+          "uniqueId": 565,
+          "date": "Oct 19, 2024 00:43:51",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Boomerang (Energylandia)",
+          "position": 158,
+          "uniqueId": 197,
+          "date": "Jul 24, 2020 23:23:37",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Draak",
+          "position": 159,
+          "uniqueId": 282,
+          "date": "Aug 22, 2021 11:00:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tabalugas",
+          "position": 160,
+          "uniqueId": 342,
+          "date": "Oct 13, 2021 13:30:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Twister",
+          "position": 161,
+          "uniqueId": 409,
+          "date": "Jul 21, 2022 07:30:34",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vampire",
+          "position": 162,
+          "uniqueId": 371,
+          "date": "Apr 4, 2022 23:21:04",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Jaguar",
+          "position": 163,
+          "uniqueId": 270,
+          "date": "Jul 4, 2021 23:30:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Titanide",
+          "position": 164,
+          "uniqueId": 28,
+          "date": "Jun 19, 2019 00:43:23",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "MP-Xpress",
+          "position": 165,
+          "uniqueId": 317,
+          "date": "Oct 10, 2021 14:25:28",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Goudurix",
+          "position": 166,
+          "uniqueId": 259,
+          "date": "Sep 20, 2020 19:38:57",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Machine a Vapeur",
+          "position": 167,
+          "uniqueId": 265,
+          "date": "Sep 21, 2020 12:59:34",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "El Condor",
+          "position": 168,
+          "uniqueId": 100,
+          "date": "Aug 29, 2019 12:16:46",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Moncayo",
+          "position": 169,
+          "uniqueId": 39,
+          "date": "Jul 18, 2019 17:45:01",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Speedy Bob",
+          "position": 170,
+          "uniqueId": 275,
+          "date": "Aug 21, 2021 11:58:26",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Inferno",
+          "position": 171,
+          "uniqueId": 460,
+          "date": "Aug 19, 2023 20:01:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vértigo",
+          "position": 172,
+          "uniqueId": 25,
+          "date": "Jun 19, 2019 00:42:09",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "El Diablo",
+          "position": 173,
+          "uniqueId": 21,
+          "date": "Jun 19, 2019 00:40:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dawson duel Blue",
+          "position": 174,
+          "uniqueId": 292,
+          "date": "Aug 24, 2021 16:54:30",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dawson duel Green",
+          "position": 175,
+          "uniqueId": 293,
+          "date": "Aug 24, 2021 16:54:52",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rollerball",
+          "position": 176,
+          "uniqueId": 217,
+          "date": "Sep 3, 2020 22:22:08",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Frutti loop",
+          "position": 177,
+          "uniqueId": 199,
+          "date": "Jul 24, 2020 23:24:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vol D'Icare",
+          "position": 178,
+          "uniqueId": 258,
+          "date": "Sep 20, 2020 19:38:27",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Casey jr",
+          "position": 179,
+          "uniqueId": 146,
+          "date": "Jan 24, 2020 20:13:05",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Grottenblitz (powered heide)",
+          "position": 180,
+          "uniqueId": 90,
+          "date": "Aug 27, 2019 18:18:23",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Montaña Suiza",
+          "position": 181,
+          "uniqueId": 299,
+          "date": "Sep 12, 2021 17:03:58",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pegasus",
+          "position": 182,
+          "uniqueId": 493,
+          "date": "Jun 23, 2024 14:23:53",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Salama",
+          "position": 183,
+          "uniqueId": 399,
+          "date": "Jul 21, 2022 07:23:24",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Volldampf",
+          "position": 184,
+          "uniqueId": 337,
+          "date": "Oct 12, 2021 16:07:19",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Bob Express",
+          "position": 185,
+          "uniqueId": 277,
+          "date": "Aug 21, 2021 14:26:04",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Crazy Mine (Wild Mouse de Hansa)",
+          "position": 186,
+          "uniqueId": 77,
+          "date": "Aug 26, 2019 14:52:45",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Keverbaan",
+          "position": 187,
+          "uniqueId": 291,
+          "date": "Aug 24, 2021 16:53:15",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "RC Racer",
+          "position": 188,
+          "uniqueId": 166,
+          "date": "Jan 25, 2020 16:51:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Hochschaubahn",
+          "position": 189,
+          "uniqueId": 213,
+          "date": "Sep 3, 2020 22:19:54",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Ukko",
+          "position": 190,
+          "uniqueId": 401,
+          "date": "Jul 21, 2022 07:24:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Avengers Assemble: Flight Force",
+          "position": 191,
+          "uniqueId": 461,
+          "date": "Sep 8, 2023 21:17:37",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Cobra PowerPark",
+          "position": 192,
+          "uniqueId": 386,
+          "date": "Jul 19, 2022 08:07:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Cobra",
+          "position": 193,
+          "uniqueId": 369,
+          "date": "Apr 4, 2022 23:20:15",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Flying Eagle",
+          "position": 194,
+          "uniqueId": 453,
+          "date": "May 23, 2023 10:39:34",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Linnunrata eXtra",
+          "position": 195,
+          "uniqueId": 397,
+          "date": "Jul 21, 2022 07:22:39",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dreamcatcher",
+          "position": 196,
+          "uniqueId": 278,
+          "date": "Aug 21, 2021 16:44:46",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tulireki",
+          "position": 197,
+          "uniqueId": 400,
+          "date": "Jul 21, 2022 07:24:08",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Ghost Chasers",
+          "position": 198,
+          "uniqueId": 312,
+          "date": "Oct 10, 2021 14:21:39",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Limit",
+          "position": 199,
+          "uniqueId": 88,
+          "date": "Aug 27, 2019 12:29:12",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Big Loop",
+          "position": 200,
+          "uniqueId": 89,
+          "date": "Aug 27, 2019 12:54:35",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Boomerang (Bellewaerde)",
+          "position": 201,
+          "uniqueId": 290,
+          "date": "Aug 24, 2021 14:01:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Alucinakis",
+          "position": 202,
+          "uniqueId": 27,
+          "date": "Jun 19, 2019 00:43:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vilda Musen",
+          "position": 203,
+          "uniqueId": 410,
+          "date": "Jul 21, 2022 07:31:25",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vilde Mus",
+          "position": 204,
+          "uniqueId": 438,
+          "date": "May 23, 2023 10:34:54",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Toos-Express",
+          "position": 205,
+          "uniqueId": 114,
+          "date": "Aug 31, 2019 10:44:02",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Frida",
+          "position": 206,
+          "uniqueId": 194,
+          "date": "Jul 24, 2020 23:21:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Jimmy Neutron",
+          "position": 207,
+          "uniqueId": 314,
+          "date": "Oct 10, 2021 14:22:49",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Aérotrain",
+          "position": 208,
+          "uniqueId": 244,
+          "date": "Sep 19, 2020 13:41:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Energus",
+          "position": 209,
+          "uniqueId": 198,
+          "date": "Jul 24, 2020 23:24:18",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dragon Chinois",
+          "position": 210,
+          "uniqueId": 266,
+          "date": "Sep 21, 2020 13:00:07",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tom y Jerry",
+          "position": 211,
+          "uniqueId": 26,
+          "date": "Jun 19, 2019 00:42:39",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Drako (WbH)",
+          "position": 212,
+          "uniqueId": 104,
+          "date": "Aug 29, 2019 20:59:37",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Poseidon",
+          "position": 213,
+          "uniqueId": 499,
+          "date": "Jun 23, 2024 14:26:26",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tibidabo Express",
+          "position": 214,
+          "uniqueId": 36,
+          "date": "Jul 6, 2019 11:37:47",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Ramses",
+          "position": 215,
+          "uniqueId": 40,
+          "date": "Jul 18, 2019 17:45:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "SOS Numérobis",
+          "position": 216,
+          "uniqueId": 261,
+          "date": "Sep 20, 2020 19:42:42",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Oki Doki",
+          "position": 217,
+          "uniqueId": 279,
+          "date": "Aug 21, 2021 16:45:47",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "K3",
+          "position": 218,
+          "uniqueId": 283,
+          "date": "Aug 22, 2021 11:01:10",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Flying Fish",
+          "position": 219,
+          "uniqueId": 30,
+          "date": "Jun 19, 2019 00:44:36",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rasender Tausendfüßler",
+          "position": 220,
+          "uniqueId": 338,
+          "date": "Oct 12, 2021 16:08:25",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mine Train Ulven",
+          "position": 221,
+          "uniqueId": 437,
+          "date": "May 23, 2023 10:34:40",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Happy loops",
+          "position": 222,
+          "uniqueId": 200,
+          "date": "Jul 24, 2020 23:25:07",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tomahawk",
+          "position": 223,
+          "uniqueId": 20,
+          "date": "Jun 19, 2019 00:40:23",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Bobbahn EP",
+          "position": 224,
+          "uniqueId": 494,
+          "date": "Jun 23, 2024 14:24:17",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vilde Hønsejagt",
+          "position": 225,
+          "uniqueId": 451,
+          "date": "May 23, 2023 10:38:55",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Viktors",
+          "position": 226,
+          "uniqueId": 284,
+          "date": "Aug 22, 2021 11:01:24",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "€uro coaster",
+          "position": 227,
+          "uniqueId": 216,
+          "date": "Sep 3, 2020 22:21:41",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rutschebanen Bakken",
+          "position": 228,
+          "uniqueId": 441,
+          "date": "May 23, 2023 10:35:46",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tren de Potosí",
+          "position": 229,
+          "uniqueId": 269,
+          "date": "Jul 4, 2021 23:30:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Backyardigabs",
+          "position": 230,
+          "uniqueId": 311,
+          "date": "Oct 10, 2021 14:21:13",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dizzy Mouse",
+          "position": 231,
+          "uniqueId": 219,
+          "date": "Sep 3, 2020 22:22:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rabalder",
+          "position": 232,
+          "uniqueId": 436,
+          "date": "May 23, 2023 10:34:29",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Dinocoaster",
+          "position": 233,
+          "uniqueId": 185,
+          "date": "Jul 22, 2020 20:34:19",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Der Kleine Zar",
+          "position": 234,
+          "uniqueId": 80,
+          "date": "Aug 26, 2019 14:54:45",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fun Pilot",
+          "position": 235,
+          "uniqueId": 370,
+          "date": "Apr 4, 2022 23:20:42",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Padrinos Voladores",
+          "position": 236,
+          "uniqueId": 22,
+          "date": "Jun 19, 2019 00:41:13",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tami-Tami",
+          "position": 237,
+          "uniqueId": 19,
+          "date": "Jun 19, 2019 00:40:15",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Joyride",
+          "position": 238,
+          "uniqueId": 387,
+          "date": "Jul 19, 2022 08:08:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Indy-Blitz (Heide)",
+          "position": 239,
+          "uniqueId": 83,
+          "date": "Aug 27, 2019 11:06:02",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Roller Coaster (Neverland Zaragoza)",
+          "position": 240,
+          "uniqueId": 37,
+          "date": "Jul 18, 2019 14:33:29",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Souris Verte",
+          "position": 241,
+          "uniqueId": 247,
+          "date": "Sep 19, 2020 13:43:10",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Jurassic Twister",
+          "position": 242,
+          "uniqueId": 250,
+          "date": "Sep 19, 2020 19:07:44",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Wilde Maus",
+          "position": 243,
+          "uniqueId": 222,
+          "date": "Sep 3, 2020 22:25:41",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Zug des Manitu",
+          "position": 244,
+          "uniqueId": 221,
+          "date": "Sep 3, 2020 22:23:31",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pomme",
+          "position": 245,
+          "uniqueId": 245,
+          "date": "Sep 19, 2020 13:41:53",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pikajuna",
+          "position": 246,
+          "uniqueId": 398,
+          "date": "Jul 21, 2022 07:23:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Draken",
+          "position": 247,
+          "uniqueId": 193,
+          "date": "Jul 24, 2020 23:21:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Rasender Roland (Nessie)",
+          "position": 248,
+          "uniqueId": 79,
+          "date": "Aug 26, 2019 14:54:28",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Kamelen",
+          "position": 249,
+          "uniqueId": 444,
+          "date": "May 23, 2023 10:36:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Neo's Twister",
+          "position": 250,
+          "uniqueId": 390,
+          "date": "Jul 19, 2022 08:09:59",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Circus Coaster",
+          "position": 251,
+          "uniqueId": 204,
+          "date": "Jul 25, 2020 17:08:09",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Cumbres",
+          "position": 252,
+          "uniqueId": 32,
+          "date": "Jun 26, 2019 12:50:08",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Crazy Bats",
+          "position": 253,
+          "uniqueId": 335,
+          "date": "Oct 12, 2021 16:04:42",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Ba-a-a Express",
+          "position": 254,
+          "uniqueId": 498,
+          "date": "Jun 23, 2024 14:26:08",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "E.R.S.",
+          "position": 255,
+          "uniqueId": 479,
+          "date": "Jun 9, 2024 20:16:47",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Montaña Rusa (Babylon Parquesur)",
+          "position": 256,
+          "uniqueId": 477,
+          "date": "May 1, 2024 21:23:56",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Super 8er Bahn",
+          "position": 257,
+          "uniqueId": 220,
+          "date": "Sep 3, 2020 22:23:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Gonzales",
+          "position": 258,
+          "uniqueId": 252,
+          "date": "Sep 19, 2020 19:09:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tuff-Tuff Tåget",
+          "position": 259,
+          "uniqueId": 408,
+          "date": "Jul 21, 2022 07:30:12",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Nyckelpigan",
+          "position": 260,
+          "uniqueId": 407,
+          "date": "Jul 21, 2022 07:29:50",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Pirate's Coaster",
+          "position": 261,
+          "uniqueId": 253,
+          "date": "Sep 19, 2020 19:09:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mariehønen",
+          "position": 262,
+          "uniqueId": 440,
+          "date": "May 23, 2023 10:35:30",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mars",
+          "position": 263,
+          "uniqueId": 201,
+          "date": "Jul 24, 2020 23:25:36",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mine Train PowerPark",
+          "position": 264,
+          "uniqueId": 389,
+          "date": "Jul 19, 2022 08:09:32",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Stampbanan",
+          "position": 265,
+          "uniqueId": 435,
+          "date": "May 23, 2023 10:34:16",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Vauhtimato",
+          "position": 266,
+          "uniqueId": 385,
+          "date": "Jul 19, 2022 08:07:03",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Jungle Rally",
+          "position": 267,
+          "uniqueId": 449,
+          "date": "May 23, 2023 10:38:17",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Race (SBF Prater)",
+          "position": 268,
+          "uniqueId": 223,
+          "date": "Sep 3, 2020 22:26:02",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Junior Red Force",
+          "position": 269,
+          "uniqueId": 33,
+          "date": "Jul 3, 2019 14:08:33",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Paw Patrol",
+          "position": 270,
+          "uniqueId": 24,
+          "date": "Jun 19, 2019 00:41:53",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mina (PAZ)",
+          "position": 271,
+          "uniqueId": 38,
+          "date": "Jul 18, 2019 17:44:52",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Mini Mouse Cartoon",
+          "position": 272,
+          "uniqueId": 243,
+          "date": "Sep 19, 2020 13:41:20",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fiesta Express Benidorm",
+          "position": 273,
+          "uniqueId": 478,
+          "date": "May 11, 2024 17:59:38",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Fiesta Express",
+          "position": 274,
+          "uniqueId": 29,
+          "date": "Jun 19, 2019 00:44:14",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Insane",
+          "position": 275,
+          "uniqueId": 403,
+          "date": "Jul 21, 2022 07:26:12",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Tornado Bakken",
+          "position": 276,
+          "uniqueId": 439,
+          "date": "May 23, 2023 10:35:07",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Viking (wild mouse Energylandia)",
+          "position": 277,
+          "uniqueId": 196,
+          "date": "Jul 24, 2020 23:23:10",
           "isChecked": false,
           "description": ""
         }
