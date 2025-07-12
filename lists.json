@@ -3089,6 +3089,14 @@
           "isChecked": false,
           "description": "",
           "position": 56
+        },
+        {
+          "name": "Bruselas Madrid 2025",
+          "uniqueId": 1752319656993,
+          "date": "Sat Jul 12 2025 13:27:36 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 57
         }
       ]
     },
