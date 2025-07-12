@@ -1,6 +1,8 @@
 [build]
-  publish = "."           # tu carpeta de proyecto
+  # tu comando habitual, p.ej. "npm run build"
+  command = "npm run build"
+  publish = "public"
   functions = "netlify/functions"
 
-[build.environment]
-  NODE_VERSION = "16"
+  # si este comando sale con 0, NETLIFY SALTA el build
+  ignore = "node netlify-ignore.js"
