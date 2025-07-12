@@ -1,0 +1,6 @@
+[build]
+  publish = "."           # tu carpeta de proyecto
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "16"
