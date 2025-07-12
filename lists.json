@@ -2271,16 +2271,8 @@
       "showImageIcon": true,
       "itemList": [
         {
-          "name": "Plopsa Coo",
-          "uniqueId": 1752319597076,
-          "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 0
-        },
-        {
           "name": "Efteling",
-          "position": 1,
+          "position": 0,
           "uniqueId": 112,
           "date": "Aug 30, 2019 20:17:30",
           "isChecked": false,
@@ -2288,7 +2280,7 @@
         },
         {
           "name": "Disneyland París",
-          "position": 2,
+          "position": 1,
           "uniqueId": 145,
           "date": "Jan 24, 2020 20:12:04",
           "isChecked": false,
@@ -2296,7 +2288,7 @@
         },
         {
           "name": "Phantasialand",
-          "position": 3,
+          "position": 2,
           "uniqueId": 310,
           "date": "Oct 9, 2021 22:56:10",
           "isChecked": false,
@@ -2304,7 +2296,7 @@
         },
         {
           "name": "Europa Park",
-          "position": 4,
+          "position": 3,
           "uniqueId": 489,
           "date": "Jun 19, 2024 09:17:04",
           "isChecked": false,
@@ -2312,7 +2304,7 @@
         },
         {
           "name": "Parc Astérix",
-          "position": 5,
+          "position": 4,
           "uniqueId": 255,
           "date": "Sep 20, 2020 18:31:09",
           "isChecked": false,
@@ -2320,7 +2312,7 @@
         },
         {
           "name": "PortAventura",
-          "position": 6,
+          "position": 5,
           "uniqueId": 41,
           "date": "Jul 19, 2019 18:54:42",
           "isChecked": false,
@@ -2328,7 +2320,7 @@
         },
         {
           "name": "Toverland",
-          "position": 7,
+          "position": 6,
           "uniqueId": 118,
           "date": "Aug 31, 2019 13:11:45",
           "isChecked": false,
@@ -2336,7 +2328,7 @@
         },
         {
           "name": "Liseberg",
-          "position": 8,
+          "position": 7,
           "uniqueId": 463,
           "date": "Sep 9, 2023 20:48:14",
           "isChecked": false,
@@ -2344,7 +2336,7 @@
         },
         {
           "name": "Plopsaland de Panne",
-          "position": 9,
+          "position": 8,
           "uniqueId": 287,
           "date": "Aug 22, 2021 16:42:05",
           "isChecked": false,
@@ -2352,7 +2344,7 @@
         },
         {
           "name": "Hansa Park",
-          "position": 10,
+          "position": 9,
           "uniqueId": 81,
           "date": "Aug 26, 2019 16:20:29",
           "isChecked": false,
@@ -2360,7 +2352,7 @@
         },
         {
           "name": "Energylandia",
-          "position": 11,
+          "position": 10,
           "uniqueId": 192,
           "date": "Jul 24, 2020 21:44:33",
           "isChecked": false,
@@ -2368,11 +2360,19 @@
         },
         {
           "name": "Parque Warner",
-          "position": 12,
+          "position": 11,
           "uniqueId": 42,
           "date": "Jul 19, 2019 18:54:55",
           "isChecked": false,
           "description": ""
+        },
+        {
+          "name": "Plopsa Coo",
+          "uniqueId": 1752319597076,
+          "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 12
         },
         {
           "name": "Tripsdrill",
