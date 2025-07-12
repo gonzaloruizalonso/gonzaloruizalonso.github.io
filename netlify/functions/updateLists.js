@@ -1,57 +1,29 @@
 // netlify/functions/updateLists.js
-
 exports.handler = async (event) => {
-  if (event.httpMethod !== "POST") {
-    return { statusCode: 405, body: "Method Not Allowed" };
+  // Import dinámico y fetch
+  const [{ Octokit }, { fetch }] = await Promise.all([
+    import("@octokit/rest"),
+    import("cross-fetch")
+  ]);
+  const octokit = new Octokit({ auth: process.env.GH_TOKEN, request: { fetch }});
+  const owner = "gonzaloruizalonso", repo = "gonzaloruizalonso.github.io", path = "lists.json";
+
+  if (event.httpMethod === "GET") {
+    // Leer y devolver
+    const { data: file } = await octokit.repos.getContent({ owner, repo, path });
+    const json = JSON.parse(Buffer.from(file.content, "base64").toString("utf-8"));
+    return { statusCode: 200, body: JSON.stringify({ lists: json.Item }) };
   }
 
-  try {
-    // Import dinámico de Octokit y cross-fetch
-    const [{ Octokit }, { fetch }] = await Promise.all([
-      import("@octokit/rest"),
-      import("cross-fetch")
-    ]);
-
-    // Creamos la instancia inyectando fetch
-    const octokit = new Octokit({
-      auth: process.env.GH_TOKEN,
-      request: { fetch }
-    });
-
-    // Extraemos las listas del body
+  if (event.httpMethod === "POST") {
+    // Actualizar
     const { lists } = JSON.parse(event.body);
-    const owner = "gonzaloruizalonso";
-    const repo  = "gonzaloruizalonso.github.io";
-    const path  = "lists.json";
-
-    // Leemos el SHA actual
     const { data: file } = await octokit.repos.getContent({ owner, repo, path });
     const sha = file.sha;
-
-    // Preparamos el JSON actualizado en base64
-    const content = Buffer
-      .from(JSON.stringify({ Item: lists }, null, 2))
-      .toString("base64");
-
-    // Commit en GitHub
-    await octokit.repos.createOrUpdateFileContents({
-      owner,
-      repo,
-      path,
-      message: "⚡️ Actualizo lists.json desde la app",
-      content,
-      sha
-    });
-
-    return {
-      statusCode: 200,
-      body: JSON.stringify({ ok: true })
-    };
-  } catch (error) {
-    console.error("Error en updateLists:", error);
-    return {
-      statusCode: error.status || 500,
-      body: JSON.stringify({ error: error.message })
-    };
+    const content = Buffer.from(JSON.stringify({ Item: lists }, null, 2)).toString("base64");
+    await octokit.repos.createOrUpdateFileContents({ owner, repo, path, message: "⚡️ Actualizo lists.json", content, sha });
+    return { statusCode: 200, body: JSON.stringify({ ok: true }) };
   }
+
+  return { statusCode: 405, body: "Method Not Allowed" };
 };
