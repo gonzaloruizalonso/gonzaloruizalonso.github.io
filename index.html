@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Ranked Lists</title>
-  <!-- SortableJS para drag & drop -->
   <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
   <style>
     body {
@@ -12,8 +11,7 @@
       margin: 0;
       padding: 0;
       background: #f0f0f0;
-      /* Dejo espacio abajo para la barra del proveedor */
-      padding-bottom: 5rem;
+      padding-bottom: 5rem; /* espacio para la barra inferior del proveedor */
     }
     header {
       background: #2563EB;
@@ -30,8 +28,7 @@
     #list-screen,
     #detail-screen {
       padding: 1rem;
-      /* mismo espacio abajo para detalle */
-      padding-bottom: 5rem;
+      padding-bottom: 5rem; /* mismo espacio abajo */
     }
     .hidden {
       display: none;
@@ -44,25 +41,48 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       cursor: pointer;
     }
+
+    /* CONTENEDOR DE ÍTEMS */
     #detail-items {
-      /* Habilito scroll horizontal y dejo hueco a la derecha */
       overflow-x: auto;
-      padding-right: 1rem;
+      padding-right: 2rem;      /* más espacio para scroll */
     }
     .item {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      padding: .5rem;
+      padding: .5rem 1rem;
       margin-bottom: .5rem;
-      background: #fafafa;
+      background: #fff;
       border-radius: .5rem;
       cursor: grab;
-      /* reduzco ancho dejando 2rem de margen interno */
-      max-width: calc(100% - 2rem);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+      /* reducimos un poco el ancho para que siempre queden márgenes */
+      max-width: calc(100% - 3rem);
+      position: relative;
     }
+    .item-number {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #2563EB;
+      color: white;
+      width: 1.8rem;
+      height: 1.8rem;
+      border-radius: 50%;
+      font-weight: bold;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+    .item span.name {
+      flex: 1;
+    }
+    .item span.drag-handle {
+      margin-left: 1rem;
+      color: #999;
+    }
+
+    /* BOTÓN FLOTANTE + */
     .fab {
-      /* botón de añadir arriba a la derecha */
       position: fixed;
       top: 1rem;
       right: 1rem;
@@ -78,6 +98,8 @@
       cursor: pointer;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     }
+
+    /* SNACKBAR DESHACER */
     #undo-bar {
       position: fixed;
       bottom: 1rem;
@@ -85,10 +107,12 @@
       transform: translateX(-50%);
       background: #323232;
       color: white;
-      padding: .5rem 1rem;
+      padding: .75rem 1.25rem;
       border-radius: .5rem;
       display: flex;
       align-items: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      font-size: .95rem;
     }
     #undo-bar.hidden {
       display: none;
@@ -97,7 +121,7 @@
       margin-left: 1rem;
       background: transparent;
       border: none;
-      color: #2563EB;
+      color: #4FC3F7;
       cursor: pointer;
       font-weight: bold;
     }
@@ -120,10 +144,10 @@
   <!-- Botón de añadir elemento -->
   <div id="add-btn" class="fab">+</div>
 
-  <!-- Barra de deshacer -->
+  <!-- Snackbar de deshacer -->
   <div id="undo-bar" class="hidden">
-    Última acción
-    <button id="undo-btn">Deshacer</button>
+    Acción realizada
+    <button id="undo-btn">DESHACER</button>
   </div>
 
   <script src="script.js"></script>

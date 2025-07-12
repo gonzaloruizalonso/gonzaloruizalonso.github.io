@@ -13,25 +13,37 @@ document.addEventListener('DOMContentLoaded', () => {
       renderLists();
     });
 
-  // Añadir nuevo elemento
+  // Añadir nuevo elemento con opción inicio/cola
   document.getElementById('add-btn').addEventListener('click', () => {
     if (!currentList) return;
     const name = prompt('Nombre del nuevo elemento:');
-    if (name) {
-      const timestamp = Date.now();
-      const newItem = {
-        name,
-        position: timestamp,
-        uniqueId: timestamp,
-        date: new Date().toString(),
-        isChecked: false,
-        description: ""
-      };
+    if (!name) return;
+
+    // Pregunto dónde añadir
+    const alInicio = confirm('¿Quieres añadir el elemento al principio?\nOK → Principio · Cancelar → Final');
+
+    const timestamp = Date.now();
+    const newItem = {
+      name,
+      uniqueId: timestamp,
+      date: new Date().toString(),
+      isChecked: false,
+      description: ""
+    };
+
+    if (alInicio) {
+      currentList.itemList.unshift(newItem);
+      history = { type: 'add-front', item: newItem };
+    } else {
       currentList.itemList.push(newItem);
-      renderItems(currentList);
-      history = { type: 'add', item: newItem };
-      showUndo();
+      history = { type: 'add-back', item: newItem };
     }
+
+    // Recalculo posiciones en función del índice
+    currentList.itemList.forEach((it, i) => it.position = i);
+
+    renderItems(currentList);
+    showUndo(alInicio ? 'Elemento añadido al principio' : 'Elemento añadido al final');
   });
 
   // Botón atrás
@@ -72,56 +84,63 @@ function renderItems(list) {
   // Orden inicial por posición
   list.itemList
     .sort((a, b) => a.position - b.position)
-    .forEach(item => {
+    .forEach((item, idx) => {
       const div = document.createElement('div');
       div.className = 'item';
       div.dataset.id = item.uniqueId;
-      div.innerHTML = `<span>${item.name}</span><span>≡</span>`;
+      div.innerHTML = `
+        <span class="item-number">${idx + 1}</span>
+        <span class="name">${item.name}</span>
+        <span class="drag-handle">≡</span>
+      `;
       detailItems.appendChild(div);
     });
 
-  // Inicializo Sortable (y destruyo la anterior si existe)
+  // Drag & drop con SortableJS
   if (window.sortable) window.sortable.destroy();
   window.sortable = Sortable.create(detailItems, {
     animation: 150,
+    handle: '.drag-handle',
     onEnd: evt => {
-      // guardo copia del estado anterior
       const oldList = list.itemList.slice();
-      // actualizo array según el drag & drop
       const moved = list.itemList.splice(evt.oldIndex, 1)[0];
       list.itemList.splice(evt.newIndex, 0, moved);
-      // recalculo posiciones
+      // Recalculo posiciones
       list.itemList.forEach((it, i) => it.position = i);
       history = { type: 'move', prevList: oldList };
-      showUndo();
+      renderItems(list);
+      showUndo('Orden cambiado');
     }
   });
 }
 
-function showUndo() {
+function showUndo(message) {
   const bar = document.getElementById('undo-bar');
-  const undoBtn = document.getElementById('undo-btn');
+  bar.firstChild.textContent = message;
   bar.classList.remove('hidden');
 
+  const undoBtn = document.getElementById('undo-btn');
   undoBtn.onclick = () => {
     if (!history) return;
-    if (history.type === 'add') {
+    if (history.type === 'add-front' || history.type === 'add-back') {
       // deshago la adición
       currentList.itemList = currentList.itemList.filter(
         it => it.uniqueId !== history.item.uniqueId
       );
-      renderItems(currentList);
     } else if (history.type === 'move') {
       // deshago el reordenamiento
       currentList.itemList = history.prevList;
-      renderItems(currentList);
     }
+    // Recalculo posiciones tras deshacer
+    currentList.itemList.forEach((it, i) => it.position = i);
     history = null;
+    renderItems(currentList);
     bar.classList.add('hidden');
   };
 
-  // oculta automáticamente la barra tras 5s
-  setTimeout(() => {
+  // Ocultar tras 5s si no interactúan
+  clearTimeout(bar._timeout);
+  bar._timeout = setTimeout(() => {
     bar.classList.add('hidden');
     history = null;
   }, 5000);
