@@ -1659,8 +1659,16 @@
           "description": ""
         },
         {
+          "name": "Brazilian Buggies",
+          "uniqueId": 1752319517603,
+          "date": "Sat Jul 12 2025 13:25:17 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 206
+        },
+        {
           "name": "Vilde Mus",
-          "position": 206,
+          "position": 207,
           "uniqueId": 438,
           "date": "May 23, 2023 10:34:54",
           "isChecked": false,
@@ -1668,7 +1676,7 @@
         },
         {
           "name": "Toos-Express",
-          "position": 207,
+          "position": 208,
           "uniqueId": 114,
           "date": "Aug 31, 2019 10:44:02",
           "isChecked": false,
@@ -1676,7 +1684,7 @@
         },
         {
           "name": "Frida",
-          "position": 208,
+          "position": 209,
           "uniqueId": 194,
           "date": "Jul 24, 2020 23:21:20",
           "isChecked": false,
@@ -1684,7 +1692,7 @@
         },
         {
           "name": "Jimmy Neutron",
-          "position": 209,
+          "position": 210,
           "uniqueId": 314,
           "date": "Oct 10, 2021 14:22:49",
           "isChecked": false,
@@ -1692,7 +1700,7 @@
         },
         {
           "name": "Aérotrain",
-          "position": 210,
+          "position": 211,
           "uniqueId": 244,
           "date": "Sep 19, 2020 13:41:33",
           "isChecked": false,
@@ -1700,19 +1708,11 @@
         },
         {
           "name": "Energus",
-          "position": 211,
+          "position": 212,
           "uniqueId": 198,
           "date": "Jul 24, 2020 23:24:18",
           "isChecked": false,
           "description": ""
-        },
-        {
-          "name": "Brazilian Buggies",
-          "uniqueId": 1752319517603,
-          "date": "Sat Jul 12 2025 13:25:17 GMT+0200 (hora de verano de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 212
         },
         {
           "name": "Dragon Chinois",
