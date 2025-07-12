@@ -201,16 +201,10 @@ function setupFloatingButtons() {
       showUndo(front ? "Añadido al principio" : "Añadido al final");
     });
 
-  // Subir al inicio de la lista (scroll)
+  // Subir al inicio de la página (scroll)
   document.getElementById("scroll-top")
-    .addEventListener("click", () => {
-      document.getElementById("detail-items")
-              .scrollTo({ top: 0, behavior: "smooth" });
-    });
-  // Bajar al final de la lista (scroll)
+    .addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+  // Bajar al final de la página (scroll)
   document.getElementById("scroll-bottom")
-    .addEventListener("click", () => {
-      const el = document.getElementById("detail-items");
-      el.scrollTo({ top: el.scrollHeight, behavior: "smooth" });
-    });
+    .addEventListener("click", () => window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" }));
 }
