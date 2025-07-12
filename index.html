@@ -2,9 +2,9 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Ranked Lists</title>
-  <!-- SortableJS -->
+  <!-- SortableJS para drag & drop -->
   <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
   <style>
     body {
@@ -12,48 +12,26 @@
       margin: 0;
       padding: 0;
       background: #f0f0f0;
-      /* espacio inferior para la barra de tiiny.host */
-      padding-bottom: 60px;
+      /* Dejo espacio abajo para la barra del proveedor */
+      padding-bottom: 5rem;
     }
     header {
       background: #2563EB;
       color: white;
-      padding: 0.75rem 1rem;
+      padding: 1rem;
       font-size: 1.2rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      position: sticky;
-      top: 0;
-      z-index: 10;
-    }
-    header .left {
       display: flex;
       align-items: center;
     }
     header .back {
-      margin-right: 0.75rem;
+      margin-right: 1rem;
       cursor: pointer;
     }
-    header .actions {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-    }
-    header .fab-top {
-      background: #10B981;
-      color: white;
-      width: 2.5rem;
-      height: 2.5rem;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 1.25rem;
-      cursor: pointer;
-    }
-    #list-screen, #detail-screen {
+    #list-screen,
+    #detail-screen {
       padding: 1rem;
+      /* mismo espacio abajo para detalle */
+      padding-bottom: 5rem;
     }
     .hidden {
       display: none;
@@ -64,14 +42,12 @@
       border-radius: .75rem;
       padding: 1rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
       cursor: pointer;
-      /* ancho máximo para evitar scroll horizontal */
-      max-width: 90%;
-      margin-left: auto;
-      margin-right: auto;
+    }
+    #detail-items {
+      /* Habilito scroll horizontal y dejo hueco a la derecha */
+      overflow-x: auto;
+      padding-right: 1rem;
     }
     .item {
       display: flex;
@@ -82,9 +58,74 @@
       background: #fafafa;
       border-radius: .5rem;
       cursor: grab;
-      max-width: 90%;
-      margin-left: auto;
-      margin-right: auto;
+      /* reduzco ancho dejando 2rem de margen interno */
+      max-width: calc(100% - 2rem);
     }
-    .fab-bottom {
-      display: none; /* ya*
+    .fab {
+      /* botón de añadir arriba a la derecha */
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background: #2563EB;
+      color: white;
+      width: 3rem;
+      height: 3rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    #undo-bar {
+      position: fixed;
+      bottom: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #323232;
+      color: white;
+      padding: .5rem 1rem;
+      border-radius: .5rem;
+      display: flex;
+      align-items: center;
+    }
+    #undo-bar.hidden {
+      display: none;
+    }
+    #undo-bar button {
+      margin-left: 1rem;
+      background: transparent;
+      border: none;
+      color: #2563EB;
+      cursor: pointer;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header id="page-header">
+    <span id="back-btn" class="back hidden">←</span>
+    <span id="header-title">Ranked Lists</span>
+  </header>
+
+  <!-- Pantalla de listas -->
+  <div id="list-screen"></div>
+
+  <!-- Pantalla de detalle -->
+  <div id="detail-screen" class="hidden">
+    <div id="detail-items"></div>
+  </div>
+
+  <!-- Botón de añadir elemento -->
+  <div id="add-btn" class="fab">+</div>
+
+  <!-- Barra de deshacer -->
+  <div id="undo-bar" class="hidden">
+    Última acción
+    <button id="undo-btn">Deshacer</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
