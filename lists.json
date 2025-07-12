@@ -2367,16 +2367,8 @@
           "description": ""
         },
         {
-          "name": "Plopsa Coo",
-          "uniqueId": 1752319597076,
-          "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 12
-        },
-        {
           "name": "Tripsdrill",
-          "position": 13,
+          "position": 12,
           "uniqueId": 332,
           "date": "Oct 12, 2021 15:59:53",
           "isChecked": false,
@@ -2384,7 +2376,7 @@
         },
         {
           "name": "Tívoli Gardens",
-          "position": 14,
+          "position": 13,
           "uniqueId": 466,
           "date": "Sep 9, 2023 20:49:31",
           "isChecked": false,
@@ -2392,7 +2384,7 @@
         },
         {
           "name": "Linnanmaki",
-          "position": 15,
+          "position": 14,
           "uniqueId": 467,
           "date": "Sep 9, 2023 20:50:34",
           "isChecked": false,
@@ -2400,7 +2392,7 @@
         },
         {
           "name": "Grona Lund",
-          "position": 16,
+          "position": 15,
           "uniqueId": 465,
           "date": "Sep 9, 2023 20:49:25",
           "isChecked": false,
@@ -2408,7 +2400,7 @@
         },
         {
           "name": "Puy du Fou España",
-          "position": 17,
+          "position": 16,
           "uniqueId": 267,
           "date": "May 8, 2021 22:22:43",
           "isChecked": false,
@@ -2416,7 +2408,7 @@
         },
         {
           "name": "Movie Park Germany",
-          "position": 18,
+          "position": 17,
           "uniqueId": 319,
           "date": "Oct 10, 2021 14:31:22",
           "isChecked": false,
@@ -2424,7 +2416,7 @@
         },
         {
           "name": "Isla Mágica",
-          "position": 19,
+          "position": 18,
           "uniqueId": 268,
           "date": "Jul 4, 2021 23:28:31",
           "isChecked": false,
@@ -2432,7 +2424,7 @@
         },
         {
           "name": "Walibi Belgium",
-          "position": 20,
+          "position": 19,
           "uniqueId": 373,
           "date": "Apr 4, 2022 23:21:48",
           "isChecked": false,
@@ -2440,7 +2432,7 @@
         },
         {
           "name": "Walibi Holland",
-          "position": 21,
+          "position": 20,
           "uniqueId": 103,
           "date": "Aug 29, 2019 17:54:54",
           "isChecked": false,
@@ -2448,7 +2440,7 @@
         },
         {
           "name": "Thorpe Park",
-          "position": 22,
+          "position": 21,
           "uniqueId": 43,
           "date": "Jul 19, 2019 18:54:58",
           "isChecked": false,
@@ -2456,11 +2448,19 @@
         },
         {
           "name": "Terra Mítica",
-          "position": 23,
+          "position": 22,
           "uniqueId": 48,
           "date": "Jul 19, 2019 18:56:36",
           "isChecked": false,
           "description": ""
+        },
+        {
+          "name": "Plopsa Coo",
+          "uniqueId": 1752319597076,
+          "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 23
         },
         {
           "name": "Disney Studios",
