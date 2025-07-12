@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ranked Lists</title>
+  <!-- SortableJS -->
+  <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f0f0f0;
+      /* espacio inferior para la barra de tiiny.host */
+      padding-bottom: 60px;
+    }
+    header {
+      background: #2563EB;
+      color: white;
+      padding: 0.75rem 1rem;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    header .left {
+      display: flex;
+      align-items: center;
+    }
+    header .back {
+      margin-right: 0.75rem;
+      cursor: pointer;
+    }
+    header .actions {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    header .fab-top {
+      background: #10B981;
+      color: white;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.25rem;
+      cursor: pointer;
+    }
+    #list-screen, #detail-screen {
+      padding: 1rem;
+    }
+    .hidden {
+      display: none;
+    }
+    .list-card {
+      background: white;
+      margin-bottom: 1rem;
+      border-radius: .75rem;
+      padding: 1rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      /* ancho máximo para evitar scroll horizontal */
+      max-width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: .5rem;
+      margin-bottom: .5rem;
+      background: #fafafa;
+      border-radius: .5rem;
+      cursor: grab;
+      max-width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .fab-bottom {
+      display: none; /* ya*
