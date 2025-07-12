@@ -1,15 +1,8 @@
 {
-  "name": "gonzaloruizalonso.github.io",
+  "name": "gonzaloruizalonso-site",
   "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^22.0.0"
-  },
-  "description": ""
+    "@octokit/rest": "^19.0.7",
+    "cross-fetch": "^3.1.5"
+  }
 }
