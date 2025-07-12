@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 //
-// Carga inicial de listas desde el JSON estático
+// Carga inicial de listas desde el JSON estático o localStorage
 //
 async function loadLists() {
   try {
@@ -173,6 +173,8 @@ function showUndo(msg) {
 // Botones flotantes: añadir, subir y bajar
 //
 function setupFloatingButtons() {
+  const detailItems = document.getElementById("detail-items");
+
   // Añadir elemento (principio/cola)
   document.getElementById("add-btn")
     .addEventListener("click", async () => {
@@ -201,10 +203,15 @@ function setupFloatingButtons() {
       showUndo(front ? "Añadido al principio" : "Añadido al final");
     });
 
-  // Subir al inicio de la página (scroll)
+  // Subir al inicio de la lista (scroll interno)
   document.getElementById("scroll-top")
-    .addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
-  // Bajar al final de la página (scroll)
+    .addEventListener("click", () => {
+      detailItems.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+  // Bajar al final de la lista (scroll interno)
   document.getElementById("scroll-bottom")
-    .addEventListener("click", () => window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" }));
+    .addEventListener("click", () => {
+      detailItems.scrollTo({ top: detailItems.scrollHeight, behavior: "smooth" });
+    });
 }
