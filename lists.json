@@ -219,24 +219,16 @@
           "description": ""
         },
         {
-          "name": "Flash Coaster",
-          "uniqueId": 1754135769264,
-          "date": "Sat Aug 02 2025 12:56:09 GMT+0100 (hora de verano de Europa occidental)",
-          "isChecked": false,
-          "description": "",
-          "position": 26
-        },
-        {
           "name": "Mecalodon",
           "uniqueId": 1752317464005,
           "date": "Sat Jul 12 2025 12:51:04 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 27
+          "position": 26
         },
         {
           "name": "Oziris",
-          "position": 28,
+          "position": 27,
           "uniqueId": 263,
           "date": "Sep 20, 2020 19:44:11",
           "isChecked": false,
@@ -244,7 +236,7 @@
         },
         {
           "name": "Colossos",
-          "position": 29,
+          "position": 28,
           "uniqueId": 82,
           "date": "Aug 27, 2019 10:31:52",
           "isChecked": false,
@@ -252,7 +244,7 @@
         },
         {
           "name": "Silver Star",
-          "position": 30,
+          "position": 29,
           "uniqueId": 488,
           "date": "Jun 17, 2024 21:51:42",
           "isChecked": false,
@@ -260,7 +252,7 @@
         },
         {
           "name": "Baron 1898",
-          "position": 31,
+          "position": 30,
           "uniqueId": 111,
           "date": "Aug 30, 2019 15:30:14",
           "isChecked": false,
@@ -268,7 +260,7 @@
         },
         {
           "name": "Pitt's Special",
-          "position": 32,
+          "position": 31,
           "uniqueId": 391,
           "date": "Jul 19, 2022 08:10:11",
           "isChecked": false,
@@ -276,7 +268,7 @@
         },
         {
           "name": "Saw: The Ride",
-          "position": 33,
+          "position": 32,
           "uniqueId": 2,
           "date": "Jun 19, 2019 00:35:42",
           "isChecked": false,
@@ -284,7 +276,7 @@
         },
         {
           "name": "Big Thunder Mountain",
-          "position": 34,
+          "position": 33,
           "uniqueId": 143,
           "date": "Jan 24, 2020 10:58:05",
           "isChecked": false,
@@ -292,11 +284,19 @@
         },
         {
           "name": "Vliegende Hollander",
-          "position": 35,
+          "position": 34,
           "uniqueId": 108,
           "date": "Aug 30, 2019 12:14:04",
           "isChecked": false,
           "description": ""
+        },
+        {
+          "name": "Flash Coaster",
+          "uniqueId": 1754135769264,
+          "date": "Sat Aug 02 2025 12:56:09 GMT+0100 (hora de verano de Europa occidental)",
+          "isChecked": false,
+          "description": "",
+          "position": 35
         },
         {
           "name": "Wiener Looping",
