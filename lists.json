@@ -2383,8 +2383,16 @@
           "description": ""
         },
         {
-          "name": "Parque Warner",
+          "name": "Puy du Fou España",
           "position": 11,
+          "uniqueId": 267,
+          "date": "May 8, 2021 22:22:43",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Parque Warner",
+          "position": 12,
           "uniqueId": 42,
           "date": "Jul 19, 2019 18:54:55",
           "isChecked": false,
@@ -2392,7 +2400,7 @@
         },
         {
           "name": "Tripsdrill",
-          "position": 12,
+          "position": 13,
           "uniqueId": 332,
           "date": "Oct 12, 2021 15:59:53",
           "isChecked": false,
@@ -2400,7 +2408,7 @@
         },
         {
           "name": "Tívoli Gardens",
-          "position": 13,
+          "position": 14,
           "uniqueId": 466,
           "date": "Sep 9, 2023 20:49:31",
           "isChecked": false,
@@ -2408,7 +2416,7 @@
         },
         {
           "name": "Linnanmaki",
-          "position": 14,
+          "position": 15,
           "uniqueId": 467,
           "date": "Sep 9, 2023 20:50:34",
           "isChecked": false,
@@ -2416,17 +2424,9 @@
         },
         {
           "name": "Grona Lund",
-          "position": 15,
+          "position": 16,
           "uniqueId": 465,
           "date": "Sep 9, 2023 20:49:25",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Puy du Fou España",
-          "position": 16,
-          "uniqueId": 267,
-          "date": "May 8, 2021 22:22:43",
           "isChecked": false,
           "description": ""
         },
