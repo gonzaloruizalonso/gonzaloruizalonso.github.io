@@ -2067,8 +2067,16 @@
           "description": ""
         },
         {
+          "name": "Butterfly futuroscope",
+          "uniqueId": 1757252348310,
+          "date": "Sun Sep 07 2025 15:39:08 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 257
+        },
+        {
           "name": "Circus Coaster",
-          "position": 257,
+          "position": 258,
           "uniqueId": 204,
           "date": "Jul 25, 2020 17:08:09",
           "isChecked": false,
@@ -2076,7 +2084,7 @@
         },
         {
           "name": "Cumbres",
-          "position": 258,
+          "position": 259,
           "uniqueId": 32,
           "date": "Jun 26, 2019 12:50:08",
           "isChecked": false,
@@ -2084,7 +2092,7 @@
         },
         {
           "name": "Crazy Bats",
-          "position": 259,
+          "position": 260,
           "uniqueId": 335,
           "date": "Oct 12, 2021 16:04:42",
           "isChecked": false,
@@ -2092,7 +2100,7 @@
         },
         {
           "name": "Ba-a-a Express",
-          "position": 260,
+          "position": 261,
           "uniqueId": 498,
           "date": "Jun 23, 2024 14:26:08",
           "isChecked": false,
@@ -2100,7 +2108,7 @@
         },
         {
           "name": "E.R.S.",
-          "position": 261,
+          "position": 262,
           "uniqueId": 479,
           "date": "Jun 9, 2024 20:16:47",
           "isChecked": false,
@@ -2108,7 +2116,7 @@
         },
         {
           "name": "Montaña Rusa (Babylon Parquesur)",
-          "position": 262,
+          "position": 263,
           "uniqueId": 477,
           "date": "May 1, 2024 21:23:56",
           "isChecked": false,
@@ -2116,7 +2124,7 @@
         },
         {
           "name": "Super 8er Bahn",
-          "position": 263,
+          "position": 264,
           "uniqueId": 220,
           "date": "Sep 3, 2020 22:23:03",
           "isChecked": false,
@@ -2128,11 +2136,11 @@
           "date": "Wed Aug 06 2025 21:10:31 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 264
+          "position": 265
         },
         {
           "name": "Gonzales",
-          "position": 265,
+          "position": 266,
           "uniqueId": 252,
           "date": "Sep 19, 2020 19:09:03",
           "isChecked": false,
@@ -2140,7 +2148,7 @@
         },
         {
           "name": "Tuff-Tuff Tåget",
-          "position": 266,
+          "position": 267,
           "uniqueId": 408,
           "date": "Jul 21, 2022 07:30:12",
           "isChecked": false,
@@ -2148,7 +2156,7 @@
         },
         {
           "name": "Nyckelpigan",
-          "position": 267,
+          "position": 268,
           "uniqueId": 407,
           "date": "Jul 21, 2022 07:29:50",
           "isChecked": false,
@@ -2156,7 +2164,7 @@
         },
         {
           "name": "Pirate's Coaster",
-          "position": 268,
+          "position": 269,
           "uniqueId": 253,
           "date": "Sep 19, 2020 19:09:32",
           "isChecked": false,
@@ -2164,7 +2172,7 @@
         },
         {
           "name": "Mariehønen",
-          "position": 269,
+          "position": 270,
           "uniqueId": 440,
           "date": "May 23, 2023 10:35:30",
           "isChecked": false,
@@ -2172,7 +2180,7 @@
         },
         {
           "name": "Mars",
-          "position": 270,
+          "position": 271,
           "uniqueId": 201,
           "date": "Jul 24, 2020 23:25:36",
           "isChecked": false,
@@ -2180,7 +2188,7 @@
         },
         {
           "name": "Mine Train PowerPark",
-          "position": 271,
+          "position": 272,
           "uniqueId": 389,
           "date": "Jul 19, 2022 08:09:32",
           "isChecked": false,
@@ -2188,7 +2196,7 @@
         },
         {
           "name": "Stampbanan",
-          "position": 272,
+          "position": 273,
           "uniqueId": 435,
           "date": "May 23, 2023 10:34:16",
           "isChecked": false,
@@ -2196,7 +2204,7 @@
         },
         {
           "name": "Vauhtimato",
-          "position": 273,
+          "position": 274,
           "uniqueId": 385,
           "date": "Jul 19, 2022 08:07:03",
           "isChecked": false,
@@ -2204,7 +2212,7 @@
         },
         {
           "name": "Jungle Rally",
-          "position": 274,
+          "position": 275,
           "uniqueId": 449,
           "date": "May 23, 2023 10:38:17",
           "isChecked": false,
@@ -2212,7 +2220,7 @@
         },
         {
           "name": "Race (SBF Prater)",
-          "position": 275,
+          "position": 276,
           "uniqueId": 223,
           "date": "Sep 3, 2020 22:26:02",
           "isChecked": false,
@@ -2220,7 +2228,7 @@
         },
         {
           "name": "Junior Red Force",
-          "position": 276,
+          "position": 277,
           "uniqueId": 33,
           "date": "Jul 3, 2019 14:08:33",
           "isChecked": false,
@@ -2228,7 +2236,7 @@
         },
         {
           "name": "Paw Patrol",
-          "position": 277,
+          "position": 278,
           "uniqueId": 24,
           "date": "Jun 19, 2019 00:41:53",
           "isChecked": false,
@@ -2236,7 +2244,7 @@
         },
         {
           "name": "Mina (PAZ)",
-          "position": 278,
+          "position": 279,
           "uniqueId": 38,
           "date": "Jul 18, 2019 17:44:52",
           "isChecked": false,
@@ -2244,7 +2252,7 @@
         },
         {
           "name": "Mini Mouse Cartoon",
-          "position": 279,
+          "position": 280,
           "uniqueId": 243,
           "date": "Sep 19, 2020 13:41:20",
           "isChecked": false,
@@ -2252,7 +2260,7 @@
         },
         {
           "name": "Fiesta Express Benidorm",
-          "position": 280,
+          "position": 281,
           "uniqueId": 478,
           "date": "May 11, 2024 17:59:38",
           "isChecked": false,
@@ -2260,7 +2268,7 @@
         },
         {
           "name": "Fiesta Express",
-          "position": 281,
+          "position": 282,
           "uniqueId": 29,
           "date": "Jun 19, 2019 00:44:14",
           "isChecked": false,
@@ -2268,7 +2276,7 @@
         },
         {
           "name": "Insane",
-          "position": 282,
+          "position": 283,
           "uniqueId": 403,
           "date": "Jul 21, 2022 07:26:12",
           "isChecked": false,
@@ -2276,7 +2284,7 @@
         },
         {
           "name": "Tornado Bakken",
-          "position": 283,
+          "position": 284,
           "uniqueId": 439,
           "date": "May 23, 2023 10:35:07",
           "isChecked": false,
@@ -2284,19 +2292,11 @@
         },
         {
           "name": "Viking (wild mouse Energylandia)",
-          "position": 284,
+          "position": 285,
           "uniqueId": 196,
           "date": "Jul 24, 2020 23:23:10",
           "isChecked": false,
           "description": ""
-        },
-        {
-          "name": "Butterfly futuroscope",
-          "uniqueId": 1757252348310,
-          "date": "Sun Sep 07 2025 15:39:08 GMT+0200 (hora de verano de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 285
         }
       ]
     },
