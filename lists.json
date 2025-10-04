@@ -3468,31 +3468,31 @@
       "itemList": [
         {
           "name": "Los Miserables (Londres)",
-          "position": 48900,
+          "position": 0,
           "uniqueId": 501,
           "date": "Jul 6, 2024 20:53:28",
           "isChecked": false,
           "description": ""
         },
         {
-          "name": "Book of Mormon (Madrid)",
-          "position": 49000,
-          "uniqueId": 511,
-          "date": "Jul 6, 2024 20:56:06",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "Phantom of the Opera Londres",
-          "position": 49100,
+          "position": 1,
           "uniqueId": 566,
           "date": "Oct 20, 2024 09:47:11",
           "isChecked": false,
           "description": ""
         },
         {
+          "name": "Book of Mormon (Madrid)",
+          "position": 2,
+          "uniqueId": 511,
+          "date": "Jul 6, 2024 20:56:06",
+          "isChecked": false,
+          "description": ""
+        },
+        {
           "name": "Book of Mormon (Londres)",
-          "position": 49200,
+          "position": 3,
           "uniqueId": 554,
           "date": "Sep 21, 2024 13:15:52",
           "isChecked": false,
@@ -3500,7 +3500,7 @@
         },
         {
           "name": "El Fantasma de la Ópera (Madrid)",
-          "position": 49300,
+          "position": 4,
           "uniqueId": 549,
           "date": "Jul 15, 2024 17:07:38",
           "isChecked": false,
@@ -3508,7 +3508,7 @@
         },
         {
           "name": "Matilda (Madrid)",
-          "position": 49400,
+          "position": 5,
           "uniqueId": 512,
           "date": "Jul 6, 2024 20:56:09",
           "isChecked": false,
@@ -3516,7 +3516,7 @@
         },
         {
           "name": "Dear Evan Hansen UK tour",
-          "position": 49500,
+          "position": 6,
           "uniqueId": 562,
           "date": "Oct 18, 2024 09:20:11",
           "isChecked": false,
@@ -3524,7 +3524,7 @@
         },
         {
           "name": "Hamilton (Londres)",
-          "position": 49600,
+          "position": 7,
           "uniqueId": 502,
           "date": "Jul 6, 2024 20:53:42",
           "isChecked": false,
@@ -3532,7 +3532,7 @@
         },
         {
           "name": "Matilda (Londres)",
-          "position": 49700,
+          "position": 8,
           "uniqueId": 555,
           "date": "Sep 21, 2024 13:16:18",
           "isChecked": false,
@@ -3540,7 +3540,7 @@
         },
         {
           "name": "Wicked (Londres)",
-          "position": 49800,
+          "position": 9,
           "uniqueId": 556,
           "date": "Sep 21, 2024 17:17:21",
           "isChecked": false,
@@ -3548,7 +3548,7 @@
         },
         {
           "name": "Frozen (Londres)",
-          "position": 49900,
+          "position": 10,
           "uniqueId": 519,
           "date": "Jul 6, 2024 20:57:29",
           "isChecked": false,
@@ -3556,7 +3556,7 @@
         },
         {
           "name": "Chicago",
-          "position": 50000,
+          "position": 11,
           "uniqueId": 510,
           "date": "Jul 6, 2024 20:56:03",
           "isChecked": false,
@@ -3564,7 +3564,7 @@
         },
         {
           "name": "Hadestown",
-          "position": 50100,
+          "position": 12,
           "uniqueId": 553,
           "date": "Sep 21, 2024 13:15:09",
           "isChecked": false,
@@ -3572,7 +3572,7 @@
         },
         {
           "name": "Back to the Future",
-          "position": 50200,
+          "position": 13,
           "uniqueId": 561,
           "date": "Oct 17, 2024 09:40:43",
           "isChecked": false,
@@ -3580,7 +3580,7 @@
         },
         {
           "name": "El Medico",
-          "position": 50300,
+          "position": 14,
           "uniqueId": 507,
           "date": "Jul 6, 2024 20:55:37",
           "isChecked": false,
@@ -3588,7 +3588,7 @@
         },
         {
           "name": "Los Pilares de la Tierra",
-          "position": 50400,
+          "position": 15,
           "uniqueId": 568,
           "date": "Mar 5, 2025 21:24:00",
           "isChecked": false,
@@ -3596,7 +3596,7 @@
         },
         {
           "name": "Kinky Boots",
-          "position": 50500,
+          "position": 16,
           "uniqueId": 503,
           "date": "Jul 6, 2024 20:54:30",
           "isChecked": false,
@@ -3604,7 +3604,7 @@
         },
         {
           "name": "Aladdin",
-          "position": 50600,
+          "position": 17,
           "uniqueId": 518,
           "date": "Jul 6, 2024 20:57:23",
           "isChecked": false,
@@ -3612,7 +3612,7 @@
         },
         {
           "name": "Los Chicos del Coro",
-          "position": 50700,
+          "position": 18,
           "uniqueId": 540,
           "date": "Jul 13, 2024 19:25:22",
           "isChecked": false,
@@ -3620,7 +3620,7 @@
         },
         {
           "name": "Come from Away",
-          "position": 50800,
+          "position": 19,
           "uniqueId": 557,
           "date": "Sep 27, 2024 16:07:12",
           "isChecked": false,
@@ -3628,7 +3628,7 @@
         },
         {
           "name": "Mamma Mia",
-          "position": 50900,
+          "position": 20,
           "uniqueId": 516,
           "date": "Jul 6, 2024 20:57:14",
           "isChecked": false,
@@ -3636,7 +3636,7 @@
         },
         {
           "name": "Malinche",
-          "position": 51000,
+          "position": 21,
           "uniqueId": 504,
           "date": "Jul 6, 2024 20:54:34",
           "isChecked": false,
@@ -3644,7 +3644,7 @@
         },
         {
           "name": "Fama",
-          "position": 51100,
+          "position": 22,
           "uniqueId": 520,
           "date": "Jul 6, 2024 20:58:16",
           "isChecked": false,
@@ -3652,7 +3652,7 @@
         },
         {
           "name": "El Rey Leon",
-          "position": 51200,
+          "position": 23,
           "uniqueId": 517,
           "date": "Jul 6, 2024 20:57:18",
           "isChecked": false,
@@ -3660,7 +3660,7 @@
         },
         {
           "name": "Sueños",
-          "position": 51300,
+          "position": 24,
           "uniqueId": 543,
           "date": "Jul 15, 2024 17:00:26",
           "isChecked": false,
@@ -3668,7 +3668,7 @@
         },
         {
           "name": "La Historia Interminable",
-          "position": 51400,
+          "position": 25,
           "uniqueId": 524,
           "date": "Jul 6, 2024 20:59:08",
           "isChecked": false,
@@ -3676,7 +3676,7 @@
         },
         {
           "name": "Avenue Q",
-          "position": 51500,
+          "position": 26,
           "uniqueId": 513,
           "date": "Jul 6, 2024 20:56:40",
           "isChecked": false,
@@ -3684,7 +3684,7 @@
         },
         {
           "name": "School of Rock",
-          "position": 51600,
+          "position": 27,
           "uniqueId": 522,
           "date": "Jul 6, 2024 20:58:32",
           "isChecked": false,
@@ -3692,7 +3692,7 @@
         },
         {
           "name": "Lo Tuyo y lo Mio",
-          "position": 51700,
+          "position": 28,
           "uniqueId": 545,
           "date": "Jul 15, 2024 17:00:36",
           "isChecked": false,
@@ -3700,7 +3700,7 @@
         },
         {
           "name": "We will rock you",
-          "position": 51800,
+          "position": 29,
           "uniqueId": 505,
           "date": "Jul 6, 2024 20:54:37",
           "isChecked": false,
@@ -3708,7 +3708,7 @@
         },
         {
           "name": "Lavar marcar enterrar",
-          "position": 51900,
+          "position": 30,
           "uniqueId": 548,
           "date": "Jul 15, 2024 17:00:54",
           "isChecked": false,
@@ -3716,7 +3716,7 @@
         },
         {
           "name": "Tick tick boom",
-          "position": 52000,
+          "position": 31,
           "uniqueId": 515,
           "date": "Jul 6, 2024 20:57:08",
           "isChecked": false,
@@ -3724,7 +3724,7 @@
         },
         {
           "name": "Pretty Woman",
-          "position": 52100,
+          "position": 32,
           "uniqueId": 542,
           "date": "Jul 15, 2024 17:00:21",
           "isChecked": false,
@@ -3732,7 +3732,7 @@
         },
         {
           "name": "El Guardaespaldas",
-          "position": 52200,
+          "position": 33,
           "uniqueId": 509,
           "date": "Jul 6, 2024 20:56:00",
           "isChecked": false,
@@ -3740,7 +3740,7 @@
         },
         {
           "name": "Una rubia muy legal",
-          "position": 52300,
+          "position": 34,
           "uniqueId": 541,
           "date": "Jul 15, 2024 17:00:14",
           "isChecked": false,
@@ -3748,7 +3748,7 @@
         },
         {
           "name": "El Aroma de Roma",
-          "position": 52400,
+          "position": 35,
           "uniqueId": 546,
           "date": "Jul 15, 2024 17:00:42",
           "isChecked": false,
@@ -3756,7 +3756,7 @@
         },
         {
           "name": "El Tiempo entre costuras",
-          "position": 52500,
+          "position": 36,
           "uniqueId": 523,
           "date": "Jul 6, 2024 20:58:54",
           "isChecked": false,
@@ -3764,7 +3764,7 @@
         },
         {
           "name": "Los Puentes de Madison",
-          "position": 52600,
+          "position": 37,
           "uniqueId": 506,
           "date": "Jul 6, 2024 20:54:53",
           "isChecked": false,
@@ -3772,7 +3772,7 @@
         },
         {
           "name": "Ghost",
-          "position": 52700,
+          "position": 38,
           "uniqueId": 544,
           "date": "Jul 15, 2024 17:00:29",
           "isChecked": false,
@@ -3780,7 +3780,7 @@
         },
         {
           "name": "First Date",
-          "position": 52800,
+          "position": 39,
           "uniqueId": 514,
           "date": "Jul 6, 2024 20:56:43",
           "isChecked": false,
@@ -3788,7 +3788,7 @@
         },
         {
           "name": "50 Sombras",
-          "position": 52900,
+          "position": 40,
           "uniqueId": 521,
           "date": "Jul 6, 2024 20:58:26",
           "isChecked": false,
@@ -3796,7 +3796,7 @@
         },
         {
           "name": "Company",
-          "position": 53000,
+          "position": 41,
           "uniqueId": 547,
           "date": "Jul 15, 2024 17:00:46",
           "isChecked": false,
@@ -3804,7 +3804,7 @@
         },
         {
           "name": "Charlie en la Fábrica de Chocolate",
-          "position": 53100,
+          "position": 42,
           "uniqueId": 508,
           "date": "Jul 6, 2024 20:55:47",
           "isChecked": false,
@@ -3812,7 +3812,7 @@
         },
         {
           "name": "La Sirenita (Amorevo)",
-          "position": 53200,
+          "position": 43,
           "uniqueId": 526,
           "date": "Jul 6, 2024 20:59:36",
           "isChecked": false,
@@ -3820,7 +3820,7 @@
         },
         {
           "name": "Sister Act (Amorevo)",
-          "position": 53300,
+          "position": 44,
           "uniqueId": 527,
           "date": "Jul 6, 2024 20:59:48",
           "isChecked": false,
@@ -3828,7 +3828,7 @@
         },
         {
           "name": "La Familia Addams (Amorevo)",
-          "position": 53400,
+          "position": 45,
           "uniqueId": 532,
           "date": "Jul 6, 2024 21:02:13",
           "isChecked": false,
@@ -3836,7 +3836,7 @@
         },
         {
           "name": "Starlight Express (Amorevo)",
-          "position": 53500,
+          "position": 46,
           "uniqueId": 533,
           "date": "Jul 6, 2024 21:02:28",
           "isChecked": false,
@@ -3844,7 +3844,7 @@
         },
         {
           "name": "Mago de Oz (Amorevo)",
-          "position": 53600,
+          "position": 47,
           "uniqueId": 529,
           "date": "Jul 6, 2024 21:01:43",
           "isChecked": false,
@@ -3852,7 +3852,7 @@
         },
         {
           "name": "Shrek (Amorevo)",
-          "position": 53700,
+          "position": 48,
           "uniqueId": 530,
           "date": "Jul 6, 2024 21:01:49",
           "isChecked": false,
@@ -3860,7 +3860,7 @@
         },
         {
           "name": "Tarzán (Amorevo)",
-          "position": 53800,
+          "position": 49,
           "uniqueId": 525,
           "date": "Jul 6, 2024 20:59:27",
           "isChecked": false,
@@ -3868,7 +3868,7 @@
         },
         {
           "name": "De 9 a 6 (Amorevo)",
-          "position": 53900,
+          "position": 50,
           "uniqueId": 531,
           "date": "Jul 6, 2024 21:02:06",
           "isChecked": false,
@@ -3876,7 +3876,7 @@
         },
         {
           "name": "Mean Girls (Amorevo)",
-          "position": 54000,
+          "position": 51,
           "uniqueId": 528,
           "date": "Jul 6, 2024 21:00:54",
           "isChecked": false,
@@ -3884,7 +3884,7 @@
         },
         {
           "name": "In the Heights (Acorde al Guión)",
-          "position": 54100,
+          "position": 52,
           "uniqueId": 536,
           "date": "Jul 6, 2024 22:00:32",
           "isChecked": false,
@@ -3892,7 +3892,7 @@
         },
         {
           "name": "Wicked (Acorde al Guión)",
-          "position": 54200,
+          "position": 53,
           "uniqueId": 539,
           "date": "Jul 6, 2024 22:01:27",
           "isChecked": false,
@@ -3900,7 +3900,7 @@
         },
         {
           "name": "Baile de Vampiros (Acorde al Guión)",
-          "position": 54300,
+          "position": 54,
           "uniqueId": 534,
           "date": "Jul 6, 2024 22:00:05",
           "isChecked": false,
@@ -3908,7 +3908,7 @@
         },
         {
           "name": "Spamalot (Acorde al Guión)",
-          "position": 54400,
+          "position": 55,
           "uniqueId": 538,
           "date": "Jul 6, 2024 22:01:13",
           "isChecked": false,
@@ -3916,7 +3916,7 @@
         },
         {
           "name": "The Producers",
-          "position": 54500,
+          "position": 56,
           "uniqueId": 537,
           "date": "Jul 6, 2024 22:01:01",
           "isChecked": false,
