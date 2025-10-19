@@ -3467,16 +3467,8 @@
       "showImageIcon": true,
       "itemList": [
         {
-          "name": "Wicked Madrid",
-          "uniqueId": 1760905049523,
-          "date": "Sun Oct 19 2025 22:17:29 GMT+0200 (hora de verano de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 0
-        },
-        {
           "name": "Los Miserables (Londres)",
-          "position": 1,
+          "position": 0,
           "uniqueId": 501,
           "date": "Jul 6, 2024 20:53:28",
           "isChecked": false,
@@ -3484,7 +3476,7 @@
         },
         {
           "name": "Phantom of the Opera Londres",
-          "position": 2,
+          "position": 1,
           "uniqueId": 566,
           "date": "Oct 20, 2024 09:47:11",
           "isChecked": false,
@@ -3492,7 +3484,7 @@
         },
         {
           "name": "Book of Mormon (Madrid)",
-          "position": 3,
+          "position": 2,
           "uniqueId": 511,
           "date": "Jul 6, 2024 20:56:06",
           "isChecked": false,
@@ -3500,7 +3492,7 @@
         },
         {
           "name": "El Fantasma de la Ópera (Madrid)",
-          "position": 4,
+          "position": 3,
           "uniqueId": 549,
           "date": "Jul 15, 2024 17:07:38",
           "isChecked": false,
@@ -3508,7 +3500,7 @@
         },
         {
           "name": "Book of Mormon (Londres)",
-          "position": 5,
+          "position": 4,
           "uniqueId": 554,
           "date": "Sep 21, 2024 13:15:52",
           "isChecked": false,
@@ -3516,7 +3508,7 @@
         },
         {
           "name": "Matilda (Madrid)",
-          "position": 6,
+          "position": 5,
           "uniqueId": 512,
           "date": "Jul 6, 2024 20:56:09",
           "isChecked": false,
@@ -3524,7 +3516,7 @@
         },
         {
           "name": "Dear Evan Hansen UK tour",
-          "position": 7,
+          "position": 6,
           "uniqueId": 562,
           "date": "Oct 18, 2024 09:20:11",
           "isChecked": false,
@@ -3532,7 +3524,7 @@
         },
         {
           "name": "Hamilton (Londres)",
-          "position": 8,
+          "position": 7,
           "uniqueId": 502,
           "date": "Jul 6, 2024 20:53:42",
           "isChecked": false,
@@ -3540,7 +3532,7 @@
         },
         {
           "name": "Matilda (Londres)",
-          "position": 9,
+          "position": 8,
           "uniqueId": 555,
           "date": "Sep 21, 2024 13:16:18",
           "isChecked": false,
@@ -3548,7 +3540,7 @@
         },
         {
           "name": "Wicked (Londres)",
-          "position": 10,
+          "position": 9,
           "uniqueId": 556,
           "date": "Sep 21, 2024 17:17:21",
           "isChecked": false,
@@ -3556,7 +3548,7 @@
         },
         {
           "name": "Frozen (Londres)",
-          "position": 11,
+          "position": 10,
           "uniqueId": 519,
           "date": "Jul 6, 2024 20:57:29",
           "isChecked": false,
@@ -3564,11 +3556,19 @@
         },
         {
           "name": "Chicago",
-          "position": 12,
+          "position": 11,
           "uniqueId": 510,
           "date": "Jul 6, 2024 20:56:03",
           "isChecked": false,
           "description": ""
+        },
+        {
+          "name": "Wicked Madrid",
+          "uniqueId": 1760905049523,
+          "date": "Sun Oct 19 2025 22:17:29 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 12
         },
         {
           "name": "Hadestown",
