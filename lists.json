@@ -3563,16 +3563,8 @@
           "description": ""
         },
         {
-          "name": "Wicked España",
-          "uniqueId": 1763201585636,
-          "date": "Sat Nov 15 2025 11:13:05 GMT+0100 (hora estándar de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 12
-        },
-        {
           "name": "Hadestown",
-          "position": 13,
+          "position": 12,
           "uniqueId": 553,
           "date": "Sep 21, 2024 13:15:09",
           "isChecked": false,
@@ -3580,7 +3572,7 @@
         },
         {
           "name": "Back to the Future",
-          "position": 14,
+          "position": 13,
           "uniqueId": 561,
           "date": "Oct 17, 2024 09:40:43",
           "isChecked": false,
@@ -3588,7 +3580,7 @@
         },
         {
           "name": "El Medico",
-          "position": 15,
+          "position": 14,
           "uniqueId": 507,
           "date": "Jul 6, 2024 20:55:37",
           "isChecked": false,
@@ -3598,6 +3590,14 @@
           "name": "Wicked Madrid",
           "uniqueId": 1760905049523,
           "date": "Sun Oct 19 2025 22:17:29 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 15
+        },
+        {
+          "name": "Wicked España",
+          "uniqueId": 1763201585636,
+          "date": "Sat Nov 15 2025 11:13:05 GMT+0100 (hora estándar de Europa central)",
           "isChecked": false,
           "description": "",
           "position": 16
