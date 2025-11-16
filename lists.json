@@ -2311,8 +2311,16 @@
       "showImageIcon": true,
       "itemList": [
         {
+          "name": "Puy Francia",
+          "uniqueId": 1763312658129,
+          "date": "Sun Nov 16 2025 18:04:18 GMT+0100 (hora estándar de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 0
+        },
+        {
           "name": "Efteling",
-          "position": 0,
+          "position": 1,
           "uniqueId": 112,
           "date": "Aug 30, 2019 20:17:30",
           "isChecked": false,
@@ -2320,7 +2328,7 @@
         },
         {
           "name": "Disneyland París",
-          "position": 1,
+          "position": 2,
           "uniqueId": 145,
           "date": "Jan 24, 2020 20:12:04",
           "isChecked": false,
@@ -2328,7 +2336,7 @@
         },
         {
           "name": "Phantasialand",
-          "position": 2,
+          "position": 3,
           "uniqueId": 310,
           "date": "Oct 9, 2021 22:56:10",
           "isChecked": false,
@@ -2336,7 +2344,7 @@
         },
         {
           "name": "Europa Park",
-          "position": 3,
+          "position": 4,
           "uniqueId": 489,
           "date": "Jun 19, 2024 09:17:04",
           "isChecked": false,
@@ -2344,7 +2352,7 @@
         },
         {
           "name": "Parc Astérix",
-          "position": 4,
+          "position": 5,
           "uniqueId": 255,
           "date": "Sep 20, 2020 18:31:09",
           "isChecked": false,
@@ -2352,7 +2360,7 @@
         },
         {
           "name": "Toverland",
-          "position": 5,
+          "position": 6,
           "uniqueId": 118,
           "date": "Aug 31, 2019 13:11:45",
           "isChecked": false,
@@ -2360,7 +2368,7 @@
         },
         {
           "name": "Liseberg",
-          "position": 6,
+          "position": 7,
           "uniqueId": 463,
           "date": "Sep 9, 2023 20:48:14",
           "isChecked": false,
@@ -2368,7 +2376,7 @@
         },
         {
           "name": "Plopsaland de Panne",
-          "position": 7,
+          "position": 8,
           "uniqueId": 287,
           "date": "Aug 22, 2021 16:42:05",
           "isChecked": false,
@@ -2376,7 +2384,7 @@
         },
         {
           "name": "Hansa Park",
-          "position": 8,
+          "position": 9,
           "uniqueId": 81,
           "date": "Aug 26, 2019 16:20:29",
           "isChecked": false,
@@ -2384,7 +2392,7 @@
         },
         {
           "name": "Energylandia",
-          "position": 9,
+          "position": 10,
           "uniqueId": 192,
           "date": "Jul 24, 2020 21:44:33",
           "isChecked": false,
@@ -2392,7 +2400,7 @@
         },
         {
           "name": "Puy du Fou España",
-          "position": 10,
+          "position": 11,
           "uniqueId": 267,
           "date": "May 8, 2021 22:22:43",
           "isChecked": false,
@@ -2400,7 +2408,7 @@
         },
         {
           "name": "Terra Mítica",
-          "position": 11,
+          "position": 12,
           "uniqueId": 48,
           "date": "Jul 19, 2019 18:56:36",
           "isChecked": false,
@@ -2408,7 +2416,7 @@
         },
         {
           "name": "PortAventura",
-          "position": 12,
+          "position": 13,
           "uniqueId": 41,
           "date": "Jul 19, 2019 18:54:42",
           "isChecked": false,
@@ -2416,7 +2424,7 @@
         },
         {
           "name": "Parque Warner",
-          "position": 13,
+          "position": 14,
           "uniqueId": 42,
           "date": "Jul 19, 2019 18:54:55",
           "isChecked": false,
@@ -2424,7 +2432,7 @@
         },
         {
           "name": "Tripsdrill",
-          "position": 14,
+          "position": 15,
           "uniqueId": 332,
           "date": "Oct 12, 2021 15:59:53",
           "isChecked": false,
@@ -2432,7 +2440,7 @@
         },
         {
           "name": "Tívoli Gardens",
-          "position": 15,
+          "position": 16,
           "uniqueId": 466,
           "date": "Sep 9, 2023 20:49:31",
           "isChecked": false,
@@ -2440,7 +2448,7 @@
         },
         {
           "name": "Linnanmaki",
-          "position": 16,
+          "position": 17,
           "uniqueId": 467,
           "date": "Sep 9, 2023 20:50:34",
           "isChecked": false,
@@ -2448,7 +2456,7 @@
         },
         {
           "name": "Grona Lund",
-          "position": 17,
+          "position": 18,
           "uniqueId": 465,
           "date": "Sep 9, 2023 20:49:25",
           "isChecked": false,
@@ -2456,7 +2464,7 @@
         },
         {
           "name": "Movie Park Germany",
-          "position": 18,
+          "position": 19,
           "uniqueId": 319,
           "date": "Oct 10, 2021 14:31:22",
           "isChecked": false,
@@ -2464,7 +2472,7 @@
         },
         {
           "name": "Isla Mágica",
-          "position": 19,
+          "position": 20,
           "uniqueId": 268,
           "date": "Jul 4, 2021 23:28:31",
           "isChecked": false,
@@ -2472,7 +2480,7 @@
         },
         {
           "name": "Walibi Belgium",
-          "position": 20,
+          "position": 21,
           "uniqueId": 373,
           "date": "Apr 4, 2022 23:21:48",
           "isChecked": false,
@@ -2480,7 +2488,7 @@
         },
         {
           "name": "Walibi Holland",
-          "position": 21,
+          "position": 22,
           "uniqueId": 103,
           "date": "Aug 29, 2019 17:54:54",
           "isChecked": false,
@@ -2488,7 +2496,7 @@
         },
         {
           "name": "Thorpe Park",
-          "position": 22,
+          "position": 23,
           "uniqueId": 43,
           "date": "Jul 19, 2019 18:54:58",
           "isChecked": false,
@@ -2500,11 +2508,11 @@
           "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 23
+          "position": 24
         },
         {
           "name": "Disney Studios",
-          "position": 24,
+          "position": 25,
           "uniqueId": 168,
           "date": "Jan 25, 2020 18:16:34",
           "isChecked": false,
@@ -2512,7 +2520,7 @@
         },
         {
           "name": "Legoland Billund",
-          "position": 25,
+          "position": 26,
           "uniqueId": 464,
           "date": "Sep 9, 2023 20:48:47",
           "isChecked": false,
@@ -2520,7 +2528,7 @@
         },
         {
           "name": "Legendia",
-          "position": 26,
+          "position": 27,
           "uniqueId": 189,
           "date": "Jul 23, 2020 20:10:40",
           "isChecked": false,
@@ -2528,7 +2536,7 @@
         },
         {
           "name": "Bobbejanland",
-          "position": 27,
+          "position": 28,
           "uniqueId": 280,
           "date": "Aug 21, 2021 16:46:02",
           "isChecked": false,
@@ -2536,7 +2544,7 @@
         },
         {
           "name": "Parque de Atracciones de Madrid",
-          "position": 28,
+          "position": 29,
           "uniqueId": 44,
           "date": "Jul 19, 2019 18:55:11",
           "isChecked": false,
@@ -2544,7 +2552,7 @@
         },
         {
           "name": "Chessington",
-          "position": 29,
+          "position": 30,
           "uniqueId": 600,
           "date": "May 27, 2025 19:52:49",
           "isChecked": false,
@@ -2552,7 +2560,7 @@
         },
         {
           "name": "Sarkanniemi",
-          "position": 30,
+          "position": 31,
           "uniqueId": 394,
           "date": "Jul 19, 2022 08:12:49",
           "isChecked": false,
@@ -2560,7 +2568,7 @@
         },
         {
           "name": "Heide Park",
-          "position": 31,
+          "position": 32,
           "uniqueId": 91,
           "date": "Aug 27, 2019 18:20:08",
           "isChecked": false,
@@ -2568,7 +2576,7 @@
         },
         {
           "name": "Powerpark",
-          "position": 32,
+          "position": 33,
           "uniqueId": 395,
           "date": "Jul 19, 2022 08:13:17",
           "isChecked": false,
@@ -2576,7 +2584,7 @@
         },
         {
           "name": "Holiday Park",
-          "position": 33,
+          "position": 34,
           "uniqueId": 345,
           "date": "Oct 13, 2021 13:34:24",
           "isChecked": false,
@@ -2584,7 +2592,7 @@
         },
         {
           "name": "Bellewaerde",
-          "position": 34,
+          "position": 35,
           "uniqueId": 294,
           "date": "Aug 25, 2021 00:39:27",
           "isChecked": false,
@@ -2592,7 +2600,7 @@
         },
         {
           "name": "Parc Saint Paul",
-          "position": 35,
+          "position": 36,
           "uniqueId": 249,
           "date": "Sep 19, 2020 13:45:21",
           "isChecked": false,
@@ -2600,7 +2608,7 @@
         },
         {
           "name": "Prater",
-          "position": 36,
+          "position": 37,
           "uniqueId": 211,
           "date": "Aug 2, 2020 00:10:17",
           "isChecked": false,
@@ -2608,7 +2616,7 @@
         },
         {
           "name": "Parque de Atracciones de Zaragoza",
-          "position": 37,
+          "position": 38,
           "uniqueId": 46,
           "date": "Jul 19, 2019 18:56:15",
           "isChecked": false,
@@ -2616,7 +2624,7 @@
         },
         {
           "name": "Monte Igueldo",
-          "position": 38,
+          "position": 39,
           "uniqueId": 300,
           "date": "Sep 12, 2021 17:07:11",
           "isChecked": false,
@@ -2624,7 +2632,7 @@
         },
         {
           "name": "Zatorland",
-          "position": 39,
+          "position": 40,
           "uniqueId": 184,
           "date": "Jul 22, 2020 20:33:46",
           "isChecked": false,
@@ -2632,7 +2640,7 @@
         },
         {
           "name": "El Malahy",
-          "position": 40,
+          "position": 41,
           "uniqueId": 469,
           "date": "Nov 10, 2023 19:18:48",
           "isChecked": false,
@@ -2640,7 +2648,7 @@
         },
         {
           "name": "Tibidabo",
-          "position": 41,
+          "position": 42,
           "uniqueId": 47,
           "date": "Jul 19, 2019 18:56:25",
           "isChecked": false,
@@ -2648,7 +2656,7 @@
         },
         {
           "name": "Parc du Bocasse",
-          "position": 42,
+          "position": 43,
           "uniqueId": 254,
           "date": "Sep 19, 2020 21:16:55",
           "isChecked": false,
@@ -2656,7 +2664,7 @@
         },
         {
           "name": "Ferrari Land",
-          "position": 43,
+          "position": 44,
           "uniqueId": 45,
           "date": "Jul 19, 2019 18:55:29",
           "isChecked": false,
@@ -2668,7 +2676,7 @@
           "date": "Sun Sep 07 2025 15:37:28 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 44
+          "position": 45
         },
         {
           "name": "Aquashow",
@@ -2676,7 +2684,7 @@
           "date": "Sat Aug 02 2025 23:26:15 GMT+0100 (hora de verano de Europa occidental)",
           "isChecked": false,
           "description": "",
-          "position": 45
+          "position": 46
         }
       ]
     },
