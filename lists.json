@@ -2351,16 +2351,8 @@
           "description": ""
         },
         {
-          "name": "PortAventura",
-          "position": 5,
-          "uniqueId": 41,
-          "date": "Jul 19, 2019 18:54:42",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "Toverland",
-          "position": 6,
+          "position": 5,
           "uniqueId": 118,
           "date": "Aug 31, 2019 13:11:45",
           "isChecked": false,
@@ -2368,7 +2360,7 @@
         },
         {
           "name": "Liseberg",
-          "position": 7,
+          "position": 6,
           "uniqueId": 463,
           "date": "Sep 9, 2023 20:48:14",
           "isChecked": false,
@@ -2376,7 +2368,7 @@
         },
         {
           "name": "Plopsaland de Panne",
-          "position": 8,
+          "position": 7,
           "uniqueId": 287,
           "date": "Aug 22, 2021 16:42:05",
           "isChecked": false,
@@ -2384,7 +2376,7 @@
         },
         {
           "name": "Hansa Park",
-          "position": 9,
+          "position": 8,
           "uniqueId": 81,
           "date": "Aug 26, 2019 16:20:29",
           "isChecked": false,
@@ -2392,7 +2384,7 @@
         },
         {
           "name": "Energylandia",
-          "position": 10,
+          "position": 9,
           "uniqueId": 192,
           "date": "Jul 24, 2020 21:44:33",
           "isChecked": false,
@@ -2400,7 +2392,7 @@
         },
         {
           "name": "Puy du Fou España",
-          "position": 11,
+          "position": 10,
           "uniqueId": 267,
           "date": "May 8, 2021 22:22:43",
           "isChecked": false,
@@ -2408,9 +2400,17 @@
         },
         {
           "name": "Terra Mítica",
-          "position": 12,
+          "position": 11,
           "uniqueId": 48,
           "date": "Jul 19, 2019 18:56:36",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "PortAventura",
+          "position": 12,
+          "uniqueId": 41,
+          "date": "Jul 19, 2019 18:54:42",
           "isChecked": false,
           "description": ""
         },
