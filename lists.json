@@ -3523,20 +3523,20 @@
           "description": ""
         },
         {
-          "name": "Book of Mormon (Londres)",
-          "position": 6,
-          "uniqueId": 554,
-          "date": "Sep 21, 2024 13:15:52",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "Der Phantom das Oper Vienna",
           "uniqueId": 1763962742570,
           "date": "Mon Nov 24 2025 06:39:02 GMT+0100 (hora estándar de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 7
+          "position": 6
+        },
+        {
+          "name": "Book of Mormon (Londres)",
+          "position": 7,
+          "uniqueId": 554,
+          "date": "Sep 21, 2024 13:15:52",
+          "isChecked": false,
+          "description": ""
         },
         {
           "name": "Hamilton (Londres)",
