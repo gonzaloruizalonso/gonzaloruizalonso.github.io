@@ -3475,16 +3475,8 @@
       "showImageIcon": true,
       "itemList": [
         {
-          "name": "Der Phantom das Oper Vienna",
-          "uniqueId": 1763962742570,
-          "date": "Mon Nov 24 2025 06:39:02 GMT+0100 (hora estándar de Europa central)",
-          "isChecked": false,
-          "description": "",
-          "position": 0
-        },
-        {
           "name": "Los Miserables (Londres)",
-          "position": 1,
+          "position": 0,
           "uniqueId": 501,
           "date": "Jul 6, 2024 20:53:28",
           "isChecked": false,
@@ -3492,7 +3484,7 @@
         },
         {
           "name": "Phantom of the Opera Londres",
-          "position": 2,
+          "position": 1,
           "uniqueId": 566,
           "date": "Oct 20, 2024 09:47:11",
           "isChecked": false,
@@ -3500,7 +3492,7 @@
         },
         {
           "name": "Book of Mormon (Madrid)",
-          "position": 3,
+          "position": 2,
           "uniqueId": 511,
           "date": "Jul 6, 2024 20:56:06",
           "isChecked": false,
@@ -3508,7 +3500,7 @@
         },
         {
           "name": "El Fantasma de la Ópera (Madrid)",
-          "position": 4,
+          "position": 3,
           "uniqueId": 549,
           "date": "Jul 15, 2024 17:07:38",
           "isChecked": false,
@@ -3516,7 +3508,7 @@
         },
         {
           "name": "Matilda (Madrid)",
-          "position": 5,
+          "position": 4,
           "uniqueId": 512,
           "date": "Jul 6, 2024 20:56:09",
           "isChecked": false,
@@ -3524,7 +3516,7 @@
         },
         {
           "name": "Dear Evan Hansen UK tour",
-          "position": 6,
+          "position": 5,
           "uniqueId": 562,
           "date": "Oct 18, 2024 09:20:11",
           "isChecked": false,
@@ -3532,11 +3524,19 @@
         },
         {
           "name": "Book of Mormon (Londres)",
-          "position": 7,
+          "position": 6,
           "uniqueId": 554,
           "date": "Sep 21, 2024 13:15:52",
           "isChecked": false,
           "description": ""
+        },
+        {
+          "name": "Der Phantom das Oper Vienna",
+          "uniqueId": 1763962742570,
+          "date": "Mon Nov 24 2025 06:39:02 GMT+0100 (hora estándar de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 7
         },
         {
           "name": "Hamilton (Londres)",
