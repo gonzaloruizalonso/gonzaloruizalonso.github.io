@@ -67,16 +67,8 @@
           "description": ""
         },
         {
-          "name": "Hyperion",
-          "position": 7,
-          "uniqueId": 191,
-          "date": "Jul 24, 2020 20:18:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
           "name": "The Ride to Happiness",
-          "position": 8,
+          "position": 7,
           "uniqueId": 285,
           "date": "Aug 22, 2021 11:33:34",
           "isChecked": false,
@@ -84,7 +76,7 @@
         },
         {
           "name": "F.L.Y",
-          "position": 9,
+          "position": 8,
           "uniqueId": 307,
           "date": "Oct 9, 2021 22:52:43",
           "isChecked": false,
@@ -92,7 +84,7 @@
         },
         {
           "name": "Helix",
-          "position": 10,
+          "position": 9,
           "uniqueId": 432,
           "date": "May 23, 2023 10:31:51",
           "isChecked": false,
@@ -100,9 +92,17 @@
         },
         {
           "name": "Fluch von Novgorod",
-          "position": 11,
+          "position": 10,
           "uniqueId": 75,
           "date": "Aug 26, 2019 10:27:17",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Hyperion",
+          "position": 11,
+          "uniqueId": 191,
+          "date": "Jul 24, 2020 20:18:24",
           "isChecked": false,
           "description": ""
         },
