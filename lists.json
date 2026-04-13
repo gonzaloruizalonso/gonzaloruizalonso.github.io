@@ -2487,8 +2487,16 @@
           "description": ""
         },
         {
-          "name": "Walibi Holland",
+          "name": "Bellewaerde",
           "position": 22,
+          "uniqueId": 294,
+          "date": "Aug 25, 2021 00:39:27",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Walibi Holland",
+          "position": 23,
           "uniqueId": 103,
           "date": "Aug 29, 2019 17:54:54",
           "isChecked": false,
@@ -2496,7 +2504,7 @@
         },
         {
           "name": "Thorpe Park",
-          "position": 23,
+          "position": 24,
           "uniqueId": 43,
           "date": "Jul 19, 2019 18:54:58",
           "isChecked": false,
@@ -2508,15 +2516,7 @@
           "date": "Sat Jul 12 2025 13:26:37 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 24
-        },
-        {
-          "name": "Bellewaerde",
-          "position": 25,
-          "uniqueId": 294,
-          "date": "Aug 25, 2021 00:39:27",
-          "isChecked": false,
-          "description": ""
+          "position": 25
         },
         {
           "name": "Disney Studios",
