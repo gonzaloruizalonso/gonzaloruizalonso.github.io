@@ -2511,8 +2511,16 @@
           "position": 24
         },
         {
-          "name": "Disney Studios",
+          "name": "Bellewaerde",
           "position": 25,
+          "uniqueId": 294,
+          "date": "Aug 25, 2021 00:39:27",
+          "isChecked": false,
+          "description": ""
+        },
+        {
+          "name": "Disney Studios",
+          "position": 26,
           "uniqueId": 168,
           "date": "Jan 25, 2020 18:16:34",
           "isChecked": false,
@@ -2520,7 +2528,7 @@
         },
         {
           "name": "Legoland Billund",
-          "position": 26,
+          "position": 27,
           "uniqueId": 464,
           "date": "Sep 9, 2023 20:48:47",
           "isChecked": false,
@@ -2528,7 +2536,7 @@
         },
         {
           "name": "Legendia",
-          "position": 27,
+          "position": 28,
           "uniqueId": 189,
           "date": "Jul 23, 2020 20:10:40",
           "isChecked": false,
@@ -2536,7 +2544,7 @@
         },
         {
           "name": "Bobbejanland",
-          "position": 28,
+          "position": 29,
           "uniqueId": 280,
           "date": "Aug 21, 2021 16:46:02",
           "isChecked": false,
@@ -2544,7 +2552,7 @@
         },
         {
           "name": "Parque de Atracciones de Madrid",
-          "position": 29,
+          "position": 30,
           "uniqueId": 44,
           "date": "Jul 19, 2019 18:55:11",
           "isChecked": false,
@@ -2552,7 +2560,7 @@
         },
         {
           "name": "Chessington",
-          "position": 30,
+          "position": 31,
           "uniqueId": 600,
           "date": "May 27, 2025 19:52:49",
           "isChecked": false,
@@ -2560,7 +2568,7 @@
         },
         {
           "name": "Sarkanniemi",
-          "position": 31,
+          "position": 32,
           "uniqueId": 394,
           "date": "Jul 19, 2022 08:12:49",
           "isChecked": false,
@@ -2568,7 +2576,7 @@
         },
         {
           "name": "Heide Park",
-          "position": 32,
+          "position": 33,
           "uniqueId": 91,
           "date": "Aug 27, 2019 18:20:08",
           "isChecked": false,
@@ -2576,7 +2584,7 @@
         },
         {
           "name": "Powerpark",
-          "position": 33,
+          "position": 34,
           "uniqueId": 395,
           "date": "Jul 19, 2022 08:13:17",
           "isChecked": false,
@@ -2584,17 +2592,9 @@
         },
         {
           "name": "Holiday Park",
-          "position": 34,
+          "position": 35,
           "uniqueId": 345,
           "date": "Oct 13, 2021 13:34:24",
-          "isChecked": false,
-          "description": ""
-        },
-        {
-          "name": "Bellewaerde",
-          "position": 35,
-          "uniqueId": 294,
-          "date": "Aug 25, 2021 00:39:27",
           "isChecked": false,
           "description": ""
         },
