@@ -3651,20 +3651,20 @@
           "description": ""
         },
         {
+          "name": "Los Chicos del Coro",
+          "position": 22,
+          "uniqueId": 540,
+          "date": "Jul 13, 2024 19:25:22",
+          "isChecked": false,
+          "description": ""
+        },
+        {
           "name": "Cenicienta Madrid ",
           "uniqueId": 1760905084505,
           "date": "Sun Oct 19 2025 22:18:04 GMT+0200 (hora de verano de Europa central)",
           "isChecked": false,
           "description": "",
-          "position": 22
-        },
-        {
-          "name": "Los Chicos del Coro",
-          "position": 23,
-          "uniqueId": 540,
-          "date": "Jul 13, 2024 19:25:22",
-          "isChecked": false,
-          "description": ""
+          "position": 23
         },
         {
           "name": "Aladdin",
