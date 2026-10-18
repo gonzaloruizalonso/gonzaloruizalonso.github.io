@@ -3209,6 +3209,14 @@
           "isChecked": false,
           "description": "",
           "position": 62
+        },
+        {
+          "name": "Paris Madrid 2026",
+          "uniqueId": 1792313432381,
+          "date": "Sun Oct 18 2026 10:50:32 GMT+0200 (hora de verano de Europa central)",
+          "isChecked": false,
+          "description": "",
+          "position": 63
         }
       ]
     },
